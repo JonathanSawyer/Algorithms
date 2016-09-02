@@ -44,9 +44,14 @@ public class PeakFindingTest {
     public void linear() 
     {
         PeakFinding peakFinding = new PeakFinding();
-        peakFinding.setInput(new int[]{9, 6, 7, 7, 4, 3, 2, 1, 4, 5});
-        int[] peaks = peakFinding.linear();
-        Assert.assertArrayEquals(Arrays.toString(peaks), peaks, new int[]{0, 2, 3, 9});
+        peakFinding.setInput(new int[]{9, 6, 7, 7, 6, 3, 2, 1, 4, 5});
+        Assert.assertEquals(0, peakFinding.linear());
+        
+        peakFinding.setInput(new int[]{3, 6, 7, 7, 4, 3, 2, 1, 4, 5});
+        Assert.assertEquals(2, peakFinding.linear());
+        
+        peakFinding.setInput(new int[]{1, 1, 2, 3, 4, 5, 6, 7, 8, 9});
+        Assert.assertEquals(9, peakFinding.linear());
     }
     
     @Test
@@ -67,6 +72,13 @@ public class PeakFindingTest {
         //n/2 position is a peak
         peakFinding.setInput(new int[]{1,2,3,4,5,6,5,4,3,2,1});
         Assert.assertEquals(5, peakFinding.divideAndConquer());
+        
+        //Edge cases
+        peakFinding.setInput(new int[]{1});
+        Assert.assertEquals(-1, peakFinding.divideAndConquer());
+        
+        peakFinding.setInput(new int[]{1,2,3});
+        Assert.assertEquals(2, peakFinding.divideAndConquer());
                 
     }
 }
