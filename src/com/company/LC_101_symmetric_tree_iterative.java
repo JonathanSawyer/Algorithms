@@ -1,5 +1,8 @@
 package com.company;
 
+import java.util.Deque;
+import java.util.LinkedList;
+
 import com.company.models.TreeNode;
 
 public class LC_101_symmetric_tree_iterative {
@@ -31,5 +34,27 @@ public class LC_101_symmetric_tree_iterative {
         if (root == null) {
             return true;
         }
+
+        Deque<TreeNode> q = new LinkedList<TreeNode>();
+        q.add(root);
+        q.add(root);
+        while(!q.isEmpty()) {
+            TreeNode n1 = q.poll();
+            TreeNode n2 = q.poll();
+
+            if(n1 == null && n2 == null) { continue;}
+            if(n1 == null || n2 == null) { return false;}
+
+            if(n1.val != n2.val) {
+                return false;
+            }
+
+            q.add(n1.left);
+            q.add(n2.right);
+
+            q.add(n1.right);
+            q.add(n2.left);
+        }
+        return true;
     }
 }
