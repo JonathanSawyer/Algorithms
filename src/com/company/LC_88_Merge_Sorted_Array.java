@@ -2,32 +2,35 @@ package com.company;
 
 public class LC_88_Merge_Sorted_Array {
     public static int[] merge(int[] nums1, int m, int[] nums2, int n) {
-        if (n == 0) {return nums1;}
-        int nums1Index = 0;
-        int nums2Index = 0;
+        int p1 = nums1.length - 1;
+        int p2 = m - 1;
+        int p3 = n - 1;
 
-        while (nums1Index < nums1.length) {
-            if (nums1[nums1Index] >= nums2[nums2Index] || nums1Index >= m) {
-                int temp = nums1[nums1Index];
-                nums1[nums1Index] = nums2[nums2Index];
-                nums2[nums2Index] = temp;
+        while (p2 >= 0 && p3 >= 0) {
+            if (nums1[p2] > nums2[p3]) {
+                nums1[p1] = nums1[p2];
+                p2--;
+            } else {
+                nums1[p1] = nums2[p3];
+                p3--;
             }
-
-            if (nums1[nums1Index] > nums2[nums2Index] || nums1Index >= m) {
-                nums2Index++;
-            }
-
-            nums1Index++;
+            p1--;
         }
+
+        while(p2 >= 0 && p1 >= 0) {
+            nums1[p1--] = nums1[p2--];
+        }
+
+        while(p3 >= 0 && p1 >= 0) {
+            nums1[p1--] = nums2[p3--];
+        }
+
         return nums1;
     }
 
     public static void run() {
-        final int[] ints = { 4, 5, 6, 0, 0, 0 };
-        merge(ints, 3, new int[] { 1, 2, 3 }, 3);
+        final int[] ints = { 1, 2, 3, 0, 0, 0 };
+        int[] merge = merge(ints, 3, new int[] { 1, 2, 5, 6 }, 4);
+
     }
 }
-//[4,5,6,0,0,0]
-//        3
-//        [1,2,3]
-//        3

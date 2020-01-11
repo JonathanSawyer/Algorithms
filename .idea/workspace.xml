@@ -2,33 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_102_Binary_Tree_Level_Order_Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_190_Reverse_Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_191_Number_of_1_Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_204_Count_Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_62_Unique_Paths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Recursion_with_Memoization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_98_validate_binary_search_tree_iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_98_validate_binary_search_tree_recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Recusion_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/models/LC_155_Min_Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Naive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_13_Roman_to_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_20_Valid_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_268_Missing_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_278_First_Bad_Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_326_Power_of_Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_384_Suffle_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_412_Fizz_Buzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LC_678_Valid_Parenthesis_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_iterative.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_iterative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_recursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_88_Merge_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_88_Merge_Sorted_Array.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LC_101_symmetric_tree_iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LC_101_symmetric_tree_iterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/Recusion_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/Recusion_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Recusion_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Recusion_Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,54 +42,75 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Recusion_Test.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_278_First_Bad_Version.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="465">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
-                <element signature="e#80#81#0" expanded="true" />
-                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Recursion.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_268_Missing_Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_101_symmetric_tree_recursive.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_190_Reverse_Bits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            <state relative-caret-position="225">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+              <caret line="6" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -102,49 +119,20 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/LC_9_Palindrome_Number.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_DP.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LC_204_Count_Prime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="165">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_98_validate_binary_search_tree_recursive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Recursion_with_Memoization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -166,6 +154,9 @@
       <find>13112221</find>
       <find>LC_88_Merge_Sorted_Array</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/company</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -187,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/com/company/models/LC_155_Min_Stack.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_191_Number_of_1_Bits.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_190_Reverse_Bits.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Fib.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Recursion.java" />
@@ -195,26 +185,41 @@
         <option value="$PROJECT_DIR$/src/com/company/LC_Climbing_Stairs_Recursion_with_Memoization.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Recursion_with_Memoization.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Recusion_Test.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Recusion_Test.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_412_Fizz_Buzz.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_384_Suffle_an_Array.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_326_Power_of_Three.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_268_Missing_Number.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_13_Roman_to_Integer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Naive.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_20_Valid_Parentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_678_Valid_Parenthesis_String.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LC_278_First_Bad_Version.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="26" />
-    <option name="width" value="1426" />
-    <option name="height" value="795" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="80" />
+    <option name="y" value="23" />
+    <option name="width" value="1310" />
+    <option name="height" value="718" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
       <pane id="Course" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -294,6 +299,35 @@
               <item name="javax" type="462c0819:PsiDirectoryNode" />
               <item name="swing" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -395,18 +429,27 @@
       <workItem from="1578007054921" duration="5390000" />
       <workItem from="1578015905257" duration="420000" />
       <workItem from="1578096113204" duration="4275000" />
-      <workItem from="1578134251226" duration="1604000" />
+      <workItem from="1578134251226" duration="7014000" />
+      <workItem from="1578270295383" duration="2134000" />
+      <workItem from="1578287206007" duration="4742000" />
+      <workItem from="1578348792984" duration="7702000" />
+      <workItem from="1578438441694" duration="6907000" />
+      <workItem from="1578519711977" duration="6917000" />
+      <workItem from="1578541572944" duration="1768000" />
+      <workItem from="1578608415331" duration="5164000" />
+      <workItem from="1578619642416" duration="1253000" />
+      <workItem from="1578699796459" duration="636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128203000" />
+    <option name="totallyTimeSpent" value="170836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="80" y="23" width="1310" height="718" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35336193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24211356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -415,7 +458,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32930514" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17069486" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42598188" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -424,7 +467,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.20090635" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.20068611" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -438,7 +481,8 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" x="0" y="0" width="620" height="597" id="Documentation" order="10" weight="0.3297568" />
-      <window_info anchor="right" id="Debug" order="11" weight="0.3554217" />
+      <window_info anchor="right" id="Debug" order="11" sideWeight="0.49841774" weight="0.20741326" />
+      <window_info anchor="right" id="Coverage" order="12" sideWeight="0.50158226" side_tool="true" weight="0.37410587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,63 +535,114 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java</url>
-          <line>31</line>
+          <line>35</line>
           <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/LC_384_Suffle_an_Array.java</url>
           <line>13</line>
           <properties />
-          <option name="timeStamp" value="71" />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_384_Suffle_an_Array.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_412_Fizz_Buzz.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_268_Missing_Number.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_13_Roman_to_Integer.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LC_278_First_Bad_Version.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="135" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithms$Main.ic" NAME="Main Coverage Results" MODIFIED="1578263954547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>prices[start + 1]</expression-string>
+        <expression-string>index &lt; chars.length - 1 ? chars[index + 1] : null</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nums1</expression-string>
+        <expression-string>map.get(c)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>1 &lt;&lt; 31</expression-string>
+        <expression-string>map.get(s.toCharArray()[0])</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>1 &lt;&lt; 32</expression-string>
+        <expression-string>s.toCharArray()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>1 &lt;&lt; 30</expression-string>
+        <expression-string>Integer.toString(8, 3)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>1 &lt;&lt; 2</expression-string>
+        <expression-string>Integer.toString(28, 3)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>2 &lt;&lt; 2</expression-string>
+        <expression-string>Integer.toString(27, 3)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>2 &lt;&lt; 1</expression-string>
+        <expression-string>Integer.toString(9, 3)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>2 &lt; 1</expression-string>
+        <expression-string>Integer.toString(729, 3)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -599,16 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LC_101_symmetric_tree_iterative.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -626,17 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LC_204_Count_Prime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/models/LC_155_Min_Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -647,20 +721,6 @@
             <element signature="e#611#612#0" expanded="true" />
             <element signature="e#654#655#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LC_191_Number_of_1_Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LC_190_Reverse_Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -708,13 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Fib.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -746,20 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LC_9_Palindrome_Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_DP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -781,33 +820,242 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74730">
+          <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_191_Number_of_1_Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Recusion_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/javafx-src.zip!/com/sun/prism/paint/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55935">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
           <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+          <folding>
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_412_Fizz_Buzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_326_Power_of_Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_384_Suffle_an_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_13_Roman_to_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Naive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_20_Valid_Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_678_Valid_Parenthesis_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="420">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_88_Merge_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_268_Missing_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_190_Reverse_Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_9_Palindrome_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_204_Count_Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LC_278_First_Bad_Version.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
           </folding>
         </state>
       </provider>

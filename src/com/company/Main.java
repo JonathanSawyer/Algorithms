@@ -14,9 +14,20 @@ public class Main {
 //        LC_204_Count_Prime.run();
 //        LC_191_Number_of_1_Bits.run();
 //        LC_190_Reverse_Bits.run();
-//          LC_88_Merge_Sorted_Array.run();
+//        LC_88_Merge_Sorted_Array.run();
 //        LC_70_Climbing_Stairs_DP.run();
 //        LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.run();
-        Recusion_Test.run();
+//        LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.run();
+//        Recusion_Test.run();
+//        LC_461_Hamming_Distance.run();
+//        LC_412_Fizz_Buzz.run();
+//        LC_326_Power_of_Three.run();
+//        LC_268_Missing_Number.run();
+//        LC_13_Roman_to_Integer.run();
+//        LC_118_Pascals_Triangle_Naive.run();
+//        LC_20_Valid_Parentheses.run();
+//        LC_678_Valid_Parenthesis_String.run();
+//        LC_88_Merge_Sorted_Array.run();
+          LC_278_First_Bad_Version.run();
     }
 }
