@@ -28,6 +28,10 @@ public class Main {
 //        LC_20_Valid_Parentheses.run();
 //        LC_678_Valid_Parenthesis_String.run();
 //        LC_88_Merge_Sorted_Array.run();
-          LC_278_First_Bad_Version.run();
+//          LC_278_First_Bad_Version.run();
+        //LC_198_House_Robber.run();
+//        LC_1317_Convert_Integer_to_the_Sum_of_Two_No_Zero_Integers.run();
+        //LC_15_3Sum.run();
+        LC_122_Best_Time_to_Buy_and_Sell_Stock_II.run();
     }
 }
