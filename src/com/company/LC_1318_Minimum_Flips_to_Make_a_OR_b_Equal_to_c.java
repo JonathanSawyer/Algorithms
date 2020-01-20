@@ -1,6 +1,6 @@
 package com.company;
 
-public class Contest1 {
+public class LC_1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c {
     public static void run() {
         //a = 2, b = 6, c = 5
         int i = minFlips(2, 6, 5);
