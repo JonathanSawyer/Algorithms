@@ -1,77 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1323_Maximum_69_Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1325_Delete_Leaves_With_a_Given_Value.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_163_Missing_Ranges.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_334_Increasing_Triplet_Subsequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_334_Increasing_Triplet_Subsequence_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/test_change_position$a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/test_change_position.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_163_Missing_Ranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_2_Add_Two_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_334_Increasing_Triplet_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LC_334_Increasing_Triplet_Subsequence_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/test_change_position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="remove out folder">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_iterative.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_iterative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_101_symmetric_tree_recursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_102_Binary_Tree_Level_Order_Traversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_102_Binary_Tree_Level_Order_Traversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_118_Pascals_Triangle_Naive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_118_Pascals_Triangle_Naive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_118_Pascals_Triangle_Recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_118_Pascals_Triangle_Recursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_122_Best_Time_to_Buy_and_Sell_Stock_II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_122_Best_Time_to_Buy_and_Sell_Stock_II.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1317_Convert_Integer_to_the_Sum_of_Two_No_Zero_Integers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1317_Convert_Integer_to_the_Sum_of_Two_No_Zero_Integers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_13_Roman_to_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_13_Roman_to_Integer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_15_3Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_15_3Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_190_Reverse_Bits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_190_Reverse_Bits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_191_Number_of_1_Bits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_191_Number_of_1_Bits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_198_House_Robber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_198_House_Robber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_204_Count_Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_204_Count_Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_20_Valid_Parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_20_Valid_Parentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_268_Missing_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_268_Missing_Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_26_Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_26_Remove_Duplicates_from_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_278_First_Bad_Version.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_278_First_Bad_Version.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_326_Power_of_Three.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_326_Power_of_Three.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_384_Suffle_an_Array$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_384_Suffle_an_Array$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_384_Suffle_an_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_384_Suffle_an_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_3_Longest_Substring_Without_Repeating_Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_3_Longest_Substring_Without_Repeating_Characters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_412_Fizz_Buzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_412_Fizz_Buzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_461_Hamming_Distance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_461_Hamming_Distance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_49_Group_Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_49_Group_Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_5_Longest_Palindromic_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_5_Longest_Palindromic_Substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_62_Unique_Paths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_62_Unique_Paths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_678_Valid_Parenthesis_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_678_Valid_Parenthesis_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_DP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_Fib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_Fib.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_Recursion_with_Memoization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_70_Climbing_Stairs_Recursion_with_Memoization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_73_Set_Matrix_Zeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_73_Set_Matrix_Zeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_88_Merge_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_88_Merge_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_98_validate_binary_search_tree_iterative.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_98_validate_binary_search_tree_iterative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_98_validate_binary_search_tree_recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_98_validate_binary_search_tree_recursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_9_Palindrome_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_9_Palindrome_Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_Contest_172_Q1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_Contest_172_Q2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_Contest_172_Q3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LC_Contest_172_Q4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/Recusion_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/Recusion_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/models/LC_155_Min_Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/models/LC_155_Min_Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/models/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/company/models/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LC_1325_Delete_Leaves_With_a_Given_Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LC_1325_Delete_Leaves_With_a_Given_Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LC_5_Longest_Palindromic_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LC_5_Longest_Palindromic_Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,16 +34,16 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/LC_2_Add_Two_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="225">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
@@ -121,22 +53,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/LC_190_Reverse_Bits.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="15">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/LeetCode.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -224,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/LC_191_Number_of_1_Bits.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_190_Reverse_Bits.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_70_Climbing_Stairs_Fib.java" />
@@ -275,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/com/company/LC_163_Missing_Ranges.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_461_Hamming_Distance.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -381,24 +309,6 @@
               <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
-            <path>
-              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -437,7 +347,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.neat_coder.Main" />
       <module name="LeetCode" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -522,18 +432,26 @@
       <workItem from="1579485247601" duration="5428000" />
       <workItem from="1579561320715" duration="9521000" />
       <workItem from="1579681610989" duration="1116000" />
-      <workItem from="1579735115125" duration="51000" />
+      <workItem from="1579735115125" duration="399000" />
     </task>
+    <task id="LOCAL-00001" summary="remove out folder">
+      <created>1579735361350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579735361350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236979000" />
+    <option name="totallyTimeSpent" value="237327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="218" y="95" width="1440" height="797" extended-state="0" />
+    <frame x="57" y="27" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23390558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23390558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -550,10 +468,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.41762453" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5031771" side_tool="true" visible="true" weight="0.081571" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.2794562" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49682286" weight="0.19883527" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49928468" visible="true" weight="0.2794562" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -571,6 +489,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove out folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove out folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -763,24 +685,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
-          <folding>
-            <element signature="e#3504#3505#0" expanded="true" />
-            <element signature="e#3562#3563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LC_412_Fizz_Buzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1180,19 +1084,29 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/LC_2_Add_Two_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Recursive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="225">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#246#247#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
