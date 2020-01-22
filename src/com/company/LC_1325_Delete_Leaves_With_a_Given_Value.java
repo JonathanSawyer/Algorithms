@@ -24,11 +24,16 @@ public class LC_1325_Delete_Leaves_With_a_Given_Value {
     }
 
     public static TreeNode removeLeafNodes(TreeNode root, int target) {
+        // terminating condition of our recursion
         if (root == null) { return null; }
 
+        // add these items to the stack
         root.left = removeLeafNodes(root.left, target);
+
+        // add these items to the stack
         root.right = removeLeafNodes(root.right, target);
 
+        // start at the end of the recursive calls.
         if (root.left == null && root.right == null && root.val == target) { return null; }
 
         return root;

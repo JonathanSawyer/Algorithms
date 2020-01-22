@@ -1,7 +1,5 @@
 package com.company;
 
-import com.sun.prism.paint.Color;
-
 public class LC_461_Hamming_Distance {
     // Where bits are different
 //    1   (0 0 0 1)
