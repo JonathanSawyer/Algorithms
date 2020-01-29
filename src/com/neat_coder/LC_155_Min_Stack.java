@@ -1,4 +1,4 @@
-package com.neat_coder.models;
+package com.neat_coder;
 
 import java.util.PriorityQueue;
 import java.util.Queue;
