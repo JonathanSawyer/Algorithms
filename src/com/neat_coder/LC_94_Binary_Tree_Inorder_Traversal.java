@@ -14,7 +14,5 @@ public class LC_94_Binary_Tree_Inorder_Traversal {
         n2.left = n3;
     }
 
-    public List<Integer> inorderTraversal(TreeNode root) {
 
-    }
 }

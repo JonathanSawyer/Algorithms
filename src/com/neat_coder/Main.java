@@ -45,7 +45,7 @@ public class Main {
 //        LC_1325_Delete_Leaves_With_a_Given_Value.run();
 //        LC_163_Missing_Ranges.run();
 //        LC_2_Add_Two_Numbers.run();
-          LC_328_Odd_Even_Linked_List.run();
-
+//          LC_328_Odd_Even_Linked_List.run();
+        LC_1342_Reduce_Array_Size_to_The_Half.run();
     }
 }
