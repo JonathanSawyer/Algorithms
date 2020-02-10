@@ -3,8 +3,8 @@ package com.neat_coder;
 public class LC_191_Number_of_1_Bits {
     public static void run() {
         // Logical &
-        int logicalAnd1 = 1 & 11; // 1
-        int logicalAnd2 = 2 & 11; // 2
+        final int logicalAnd1 = 1 & 11; // 1
+        final int logicalAnd2 = 2 & 11; // 2
         int logicalAnd3 = 4 & 11; // 0
         int logicalAnd4 = 8 & 11; // 8
         int logicalAnd5 = 16 & 11; // 0

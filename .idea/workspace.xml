@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/neat_coder/LC_Contest_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neat_coder/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neat_coder/comp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neat_coder/comp_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neat_coder/comp_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neat_coder/LC_191_Number_of_1_Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neat_coder/LC_191_Number_of_1_Bits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/neat_coder/LC_94_Binary_Tree_Inorder_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neat_coder/LC_94_Binary_Tree_Inorder_Traversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/neat_coder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neat_coder/Main.java" afterDir="false" />
     </list>
@@ -21,19 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_328_Odd_Even_Linked_List.java">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_160_Intersection_of_Two_Linked_Lists_HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="73" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="73" />
+            <state relative-caret-position="374">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,64 +37,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_94_Binary_Tree_Inorder_Traversal.java">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/comp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="186">
+              <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/comp_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#76#77#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_Contest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/comp_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1851#1852#0" expanded="true" />
+                <element signature="e#1886#1887#0" expanded="true" />
+                <element signature="e#1944#1945#0" expanded="true" />
+                <element signature="e#1984#1985#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_Contest_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="13" selection-start-line="13" selection-start-column="2" selection-end-line="14" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_98_validate_binary_search_tree_iterative.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_155_Min_Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -107,8 +79,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_190_Reverse_Bits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="297">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_191_Number_of_1_Bits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_2_Add_Two_Numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_102_Binary_Tree_Level_Order_Traversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -116,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/neat_coder/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="645">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -142,6 +150,9 @@
       <find>FUCK</find>
       <find>fuck</find>
       <find>collect</find>
+      <find>Inorder</find>
+      <find>x !=</find>
+      <find>bit</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -157,13 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/LC_412_Fizz_Buzz.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LC_384_Suffle_an_Array.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LC_326_Power_of_Three.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LC_268_Missing_Number.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LC_13_Roman_to_Integer.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LC_118_Pascals_Triangle_Naive.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_20_Valid_Parentheses.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.java" />
         <option value="$PROJECT_DIR$/src/com/company/LC_678_Valid_Parenthesis_String.java" />
@@ -204,55 +208,33 @@
         <option value="$PROJECT_DIR$/src/com/neat_coder/LC_160_Intersection_of_Two_Linked_Lists.java" />
         <option value="$PROJECT_DIR$/src/com/neat_coder/LC_160_Intersection_of_Two_Linked_Lists_HashSet.java" />
         <option value="$PROJECT_DIR$/src/com/neat_coder/LC_160_Intersection_of_Two_Linked_Lists_Two_Pointers.java" />
-        <option value="$PROJECT_DIR$/src/com/neat_coder/LC_94_Binary_Tree_Inorder_Traversal.java" />
         <option value="$PROJECT_DIR$/src/com/neat_coder/LC_Contest.java" />
-        <option value="$PROJECT_DIR$/src/com/neat_coder/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/LC_1341_The_K_Weakest_Rows_in_a_Matrix.java" />
         <option value="$PROJECT_DIR$/src/com/neat_coder/LC_Contest_2.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/LC_1342_Reduce_Array_Size_to_The_Half.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/LC_94_Binary_Tree_Inorder_Traversal.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/comp.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/comp_1.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/comp_2.java" />
+        <option value="$PROJECT_DIR$/src/com/neat_coder/LC_191_Number_of_1_Bits.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="287" />
-    <option name="y" value="199" />
-    <option name="width" value="1153" />
-    <option name="height" value="621" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="6" />
+    <option name="y" value="33" />
+    <option name="width" value="1434" />
+    <option name="height" value="686" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="neat_coder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
       <pane id="PackagesPane" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -332,6 +314,35 @@
               <item name="javax" type="462c0819:PsiDirectoryNode" />
               <item name="swing" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LeetCode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="neat_coder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -458,7 +469,9 @@
       <workItem from="1579735115125" duration="16837000" />
       <workItem from="1580117111657" duration="11554000" />
       <workItem from="1580541633914" duration="587000" />
-      <workItem from="1580610580634" duration="5670000" />
+      <workItem from="1580610580634" duration="17136000" />
+      <workItem from="1580895062904" duration="598000" />
+      <workItem from="1581215090542" duration="5525000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -485,12 +498,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271576000" />
+    <option name="totallyTimeSpent" value="289165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="6" y="33" width="1434" height="686" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20028612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18031609" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -499,7 +513,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32930514" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.2794562" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.12990937" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -508,7 +522,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50572246" side_tool="true" weight="0.2794562" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49427754" weight="0.1978852" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49427754" weight="0.19782214" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4985694" weight="0.46676737" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -522,7 +536,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" x="0" y="0" width="620" height="597" id="Documentation" order="10" weight="0.3297568" />
-      <window_info anchor="right" id="Debug" order="11" sideWeight="0.4967213" weight="0.14949928" />
+      <window_info anchor="right" id="Debug" order="11" sideWeight="0.4967213" visible="true" weight="0.27658045" />
       <window_info anchor="right" id="Coverage" order="12" sideWeight="0.5032787" side_tool="true" weight="0.32263243" />
     </layout>
   </component>
@@ -674,6 +688,24 @@
           <properties />
           <option name="timeStamp" value="203" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neat_coder/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neat_coder/comp_1.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neat_coder/comp_2.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -682,6 +714,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>i % 2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>sum % 10</expression-string>
         <language-id>JAVA</language-id>
@@ -722,103 +759,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>Integer.toString(8, 3)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_70_Climbing_Stairs_Fib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_70_Climbing_Stairs_Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_88_Merge_Sorted_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_101_symmetric_tree_iterative.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_73_Set_Matrix_Zeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_49_Group_Anagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_9_Palindrome_Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_70_Climbing_Stairs_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_62_Unique_Paths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_191_Number_of_1_Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_98_validate_binary_search_tree_recursive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1050,13 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_2_Add_Two_Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_160_Intersection_of_Two_Linked_Lists_Two_Pointers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1102,47 +1038,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_190_Reverse_Bits.java">
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_94_Binary_Tree_Inorder_Traversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="720">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_94_Binary_Tree_Inorder_Traversal.java">
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_70_Climbing_Stairs_Recursion_with_Memoization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="184" column="6" selection-start-line="184" selection-start-column="6" selection-end-line="184" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_1341_The_K_Weakest_Rows_in_a_Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="44" column="71" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_1342_Reduce_Array_Size_to_The_Half.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_102_Binary_Tree_Level_Order_Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_2_Add_Two_Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/comp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/comp_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/neat_coder/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="645">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_Contest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/comp_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1886#1887#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1984#1985#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_Contest_2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_190_Reverse_Bits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="13" selection-start-line="13" selection-start-column="2" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="297">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neat_coder/LC_191_Number_of_1_Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
