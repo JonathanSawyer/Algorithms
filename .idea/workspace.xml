@@ -381,7 +381,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.neat_coder.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.neet_coder.Main" />
       <module name="LeetCode" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
