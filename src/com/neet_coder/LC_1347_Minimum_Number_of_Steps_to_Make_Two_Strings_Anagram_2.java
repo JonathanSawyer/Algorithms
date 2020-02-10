@@ -2,7 +2,7 @@ package com.neet_coder;
 
 import java.util.HashMap;
 
-public class comp_1 {
+public class LC_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_2 {
     public static void run() {
         int i = minSteps("friend", "family");
     }

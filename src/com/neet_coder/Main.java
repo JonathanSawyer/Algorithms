@@ -47,6 +47,6 @@ public class Main {
 //        LC_2_Add_Two_Numbers.run();
 //          LC_328_Odd_Even_Linked_List.run();
 //        LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.run();
-        comp_2.run();
+        LC_1348_Tweet_Counts_Per_Frequency.run();
     }
 }

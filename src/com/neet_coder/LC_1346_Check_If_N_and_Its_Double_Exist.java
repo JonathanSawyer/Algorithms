@@ -2,7 +2,7 @@ package com.neet_coder;
 
 import java.util.HashMap;
 
-public class comp {
+public class LC_1346_Check_If_N_and_Its_Double_Exist {
     public static void run() {
         boolean a1 = checkIfExist(new int[] { -2,0,10,-19,4,6,-8});
         boolean a2 = checkIfExist(new int[] { 0, 0 });
