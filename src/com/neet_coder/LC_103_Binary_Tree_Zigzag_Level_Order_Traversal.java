@@ -1,43 +1,67 @@
 package com.neet_coder;
 
+import java.util.ArrayList;
+import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 import com.neet_coder.models.TreeNode;
 
 public class LC_103_Binary_Tree_Zigzag_Level_Order_Traversal {
 
     public static void run() {
+        final TreeNode n1 = new TreeNode(1);
+        final TreeNode n2 = new TreeNode(2);
         final TreeNode n3 = new TreeNode(3);
-        final TreeNode n9 = new TreeNode(9);
-        final TreeNode n20 = new TreeNode(20);
-        final TreeNode n15 = new TreeNode(15);
-        final TreeNode n7 = new TreeNode(7);
-        n3.left = n9;
-        n3.right = n20;
-        n20.left = n15;
-        n20.right = n7;
+        final TreeNode n4 = new TreeNode(4);
+        final TreeNode n5 = new TreeNode(5);
+        n1.left = n2;
+        n1.right = n3;
+        n2.left = n4;
+        n2.right = n5;
 
-        zigzagLevelOrder(n3);
+        List<List<Integer>> lists = zigzagLevelOrder(n1);
+
+//          1
+//         / \
+//        2  3
+//      /  \
+//     4    5
+
+//  [
+//  [3],
+//  [20,9],
+//  [15,7]
+//  ]
     }
 
     public static List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
+        final List<List<Integer>> res = new ArrayList<>();
+        final Deque<TreeNode> queue = new LinkedList<>();
         if (root != null) {
-            q.add(root);
+            queue.offerFirst(root);
+        }
+        while (!queue.isEmpty()) {
+            int levelSize = queue.size();
+            final LinkedList<Integer> level = new LinkedList<>();
+            //for(int i=queue.size(); i>=0; i--) {
+            while (levelSize-- > 0) {
+                final TreeNode curr = queue.removeLast();
+                if (res.size() % 2 == 0) {
+                    level.addLast(curr.val);
+                } else {
+                    level.addFirst(curr.val);
+                }
+                if (curr.left != null) {
+                    queue.offerFirst(curr.left);
+                }
+                if (curr.right != null) {
+                    queue.offerFirst(curr.right);
+                }
+            }
+            res.add(level);
         }
 
-        while (!q.isEmpty()) {
-            TreeNode remove = q.remove();
-            System.out.println(remove.val);
-            if(remove.left != null) {
-                q.add(remove.left);
-            }
-            if(remove.right != null) {
-                q.add(remove.right);
-            }
-        }
-        return null;
+        return res;
     }
 }
