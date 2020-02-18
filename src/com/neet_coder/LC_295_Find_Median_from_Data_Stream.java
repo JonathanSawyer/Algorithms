@@ -32,7 +32,7 @@ public class LC_295_Find_Median_from_Data_Stream {
         }
 
         public double findMedian() {
-
+            return 0.0;
         }
     }
 }
