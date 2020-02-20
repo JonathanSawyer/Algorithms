@@ -41,7 +41,7 @@ public class LC_73_Set_Matrix_Zeroes {
 //          [1,0,1],
 //          [1,1,1]]
 
-//output   [[1,0,1],
+//result   [[1,0,1],
 //          [1,0,1],
 //          [1,0,1]]
 
