@@ -12,24 +12,35 @@ public class LC_22_Generate_Parentheses {
 
     public static List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList();
-        backtrack(ans, "", 0, 0, n);
+
+        backtrack(ans, new StringBuilder(), 0, 0, n);
         return ans;
     }
 
-    public static void backtrack(List<String> ans, String cur, int open, int close, int max) {
-        if (cur.length() == max * 2) {
-            ans.add(cur);
-            return;
+    public static void backtrack(List<String> ans,
+                                 StringBuilder combination,
+                                 int openingBrackets,
+                                 int closingBrackets,
+                                 int n) {
+        if (n == closingBrackets) {
+            ans.add(combination.toString());
         }
 
-        if (open < max) {
-            backtrack(ans, cur + '(', open + 1, close, max);
+        if (openingBrackets > closingBrackets) {
+            combination.append(')');
+            backtrack(ans, combination, openingBrackets, closingBrackets + 1, n);
+            combination.deleteCharAt(combination.length() - 1);
         }
-        if (close < open) {
-            backtrack(ans, cur + ')', open, close + 1, max);
+
+        if (openingBrackets < n) {
+            combination.append('(');
+            backtrack(ans, combination, openingBrackets + 1, closingBrackets, n);
+            combination.deleteCharAt(combination.length() - 1);
         }
     }
 }
+
+//()()()
 
 
 
