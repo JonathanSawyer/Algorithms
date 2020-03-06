@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_78_Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_56_Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_79_Word_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_988_Smallest_String_Starting_From_Leaf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/Main.java" afterDir="false" />
     </list>
@@ -38,38 +40,6 @@
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <toolWindowEditorPreview>false</toolWindowEditorPreview>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>13112221</find>
-      <find>LC_88_Merge_Sorted_Array</find>
-      <find>hashmap</find>
-      <find>FUCK</find>
-      <find>fuck</find>
-      <find>collect</find>
-      <find>Inorder</find>
-      <find>x !=</find>
-      <find>bit</find>
-      <find>&lt;&lt;</find>
-      <find>ID_LIMIT</find>
-      <find>&quot;</find>
-      <find>vkmxe</find>
-      <find>fuc</find>
-      <find>fu</find>
-      <find>check</find>
-      <find>Happy</find>
-      <find>[</find>
-      <find>toIn</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>'</replace>
-      <replace>{</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/com/company</dir>
-      <dir>$PROJECT_DIR$/src/com/neat_coder</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -201,7 +171,9 @@
       <workItem from="1582767694496" duration="788000" />
       <workItem from="1582846927066" duration="3374000" />
       <workItem from="1583241519911" duration="624000" />
-      <workItem from="1583242193773" duration="4114000" />
+      <workItem from="1583242193773" duration="15262000" />
+      <workItem from="1583367133396" duration="601000" />
+      <workItem from="1583399737902" duration="509000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -248,42 +220,46 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="440" y="23" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.797@0.23.1440.797" timestamp="1583245590738" />
-    <state width="439" height="618" key="DebuggerActiveHint" timestamp="1583246141366">
+    <state x="507" y="69" key="#xdebugger.evaluate" timestamp="1583314029180">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="439" height="618" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1583246141366" />
-    <state width="381" height="466" key="GridCell.Tab.0.bottom" timestamp="1583246153764">
+    <state x="507" y="69" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1583314029180" />
+    <state width="439" height="618" key="DebuggerActiveHint" timestamp="1583326134976">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583246153764" />
-    <state width="381" height="466" key="GridCell.Tab.0.center" timestamp="1583246153764">
+    <state width="439" height="618" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1583326134976" />
+    <state width="420" height="609" key="GridCell.Tab.0.bottom" timestamp="1583331235855">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583246153764" />
-    <state width="381" height="466" key="GridCell.Tab.0.left" timestamp="1583246153763">
+    <state width="420" height="609" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
+    <state width="420" height="609" key="GridCell.Tab.0.center" timestamp="1583331235854">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583246153763" />
-    <state width="381" height="466" key="GridCell.Tab.0.right" timestamp="1583246153764">
+    <state width="420" height="609" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583331235854" />
+    <state width="420" height="609" key="GridCell.Tab.0.left" timestamp="1583331235854">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583246153764" />
-    <state width="381" height="466" key="GridCell.Tab.1.bottom" timestamp="1583246153765">
+    <state width="420" height="609" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583331235854" />
+    <state width="420" height="609" key="GridCell.Tab.0.right" timestamp="1583331235855">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583246153765" />
-    <state width="381" height="466" key="GridCell.Tab.1.center" timestamp="1583246153765">
+    <state width="420" height="609" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
+    <state width="420" height="609" key="GridCell.Tab.1.bottom" timestamp="1583331235856">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1583246153765" />
-    <state width="381" height="466" key="GridCell.Tab.1.left" timestamp="1583246153765">
+    <state width="420" height="609" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
+    <state width="420" height="609" key="GridCell.Tab.1.center" timestamp="1583331235856">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1583246153765" />
-    <state width="381" height="466" key="GridCell.Tab.1.right" timestamp="1583246153765">
+    <state width="420" height="609" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
+    <state width="420" height="609" key="GridCell.Tab.1.left" timestamp="1583331235855">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="381" height="466" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1583246153765" />
+    <state width="420" height="609" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
+    <state width="420" height="609" key="GridCell.Tab.1.right" timestamp="1583331235856">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="420" height="609" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
     <state x="249" y="79" key="SettingsEditor" timestamp="1583242144546">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -292,58 +268,33 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="512" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1583244910782" />
+    <state x="380" y="167" width="687" height="518" key="find.popup" timestamp="1583327379180">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="380" y="167" width="687" height="518" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1583327379180" />
+    <state x="388" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1583327373923">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="388" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1583327373923" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neet_coder/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_79_Word_Search.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithms$Main.ic" NAME="Main Coverage Results" MODIFIED="1578782901478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>nums.subList(i + 1, nums.size())</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>nums.subList(i + 1, nums.size() - 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>nums.subList(i, nums.size() - 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>subIteration</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(9 &lt;&lt; 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(2 &lt;&lt; 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((2 &lt;&lt; 3) + 2)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((2 &lt;&lt; 3) + 2) +  ((9 &lt;&lt; 3) + 9)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((1 &lt;&lt; 3) + 1) +  ((9 &lt;&lt; 3) + 9)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
