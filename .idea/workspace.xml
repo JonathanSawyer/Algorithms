@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_56_Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_79_Word_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_988_Smallest_String_Starting_From_Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_297_Serialize_and_Deserialize_Binary_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_56_Merge_Intervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_56_Merge_Intervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_988_Smallest_String_Starting_From_Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_988_Smallest_String_Starting_From_Leaf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,6 +176,7 @@
       <workItem from="1583242193773" duration="15262000" />
       <workItem from="1583367133396" duration="601000" />
       <workItem from="1583399737902" duration="509000" />
+      <workItem from="1583572493011" duration="9612000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -220,46 +223,56 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="440" y="23" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.797@0.23.1440.797" timestamp="1583245590738" />
-    <state x="507" y="69" key="#xdebugger.evaluate" timestamp="1583314029180">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="507" y="69" key="#xdebugger.evaluate" timestamp="1583576992045">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="507" y="69" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1583314029180" />
-    <state width="439" height="618" key="DebuggerActiveHint" timestamp="1583326134976">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="507" y="69" key="#xdebugger.evaluate/0.23.1440.798@0.23.1440.798" timestamp="1583576992045" />
+    <state width="454" height="619" key="DebuggerActiveHint" timestamp="1583581531145">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="439" height="618" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1583326134976" />
-    <state width="420" height="609" key="GridCell.Tab.0.bottom" timestamp="1583331235855">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="454" height="619" key="DebuggerActiveHint/0.23.1440.798@0.23.1440.798" timestamp="1583581531145" />
+    <state width="342" height="582" key="GridCell.Tab.0.bottom" timestamp="1583582136011">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
-    <state width="420" height="609" key="GridCell.Tab.0.center" timestamp="1583331235854">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="342" height="582" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1583582136011" />
+    <state width="342" height="582" key="GridCell.Tab.0.center" timestamp="1583582136010">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583331235854" />
-    <state width="420" height="609" key="GridCell.Tab.0.left" timestamp="1583331235854">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="342" height="582" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1583582136010" />
+    <state width="342" height="582" key="GridCell.Tab.0.left" timestamp="1583582136010">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583331235854" />
-    <state width="420" height="609" key="GridCell.Tab.0.right" timestamp="1583331235855">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="342" height="582" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1583582136010" />
+    <state width="342" height="582" key="GridCell.Tab.0.right" timestamp="1583582136010">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
-    <state width="420" height="609" key="GridCell.Tab.1.bottom" timestamp="1583331235856">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="342" height="582" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1583582136010" />
+    <state width="342" height="582" key="GridCell.Tab.1.bottom" timestamp="1583582136012">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
-    <state width="420" height="609" key="GridCell.Tab.1.center" timestamp="1583331235856">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="342" height="582" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1583582136012" />
+    <state width="342" height="582" key="GridCell.Tab.1.center" timestamp="1583582136011">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
-    <state width="420" height="609" key="GridCell.Tab.1.left" timestamp="1583331235855">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="342" height="582" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1583582136011" />
+    <state width="342" height="582" key="GridCell.Tab.1.left" timestamp="1583582136011">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
-    <state width="420" height="609" key="GridCell.Tab.1.right" timestamp="1583331235856">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="342" height="582" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1583582136011" />
+    <state width="342" height="582" key="GridCell.Tab.1.right" timestamp="1583582136011">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="420" height="609" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
+    <state width="342" height="582" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1583582136011" />
     <state x="249" y="79" key="SettingsEditor" timestamp="1583242144546">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -272,23 +285,29 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="380" y="167" width="687" height="518" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1583327379180" />
-    <state x="388" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1583327373923">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="388" y="144" width="670" height="677" key="search.everywhere.popup" timestamp="1583576868327">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="388" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1583327373923" />
+    <state x="388" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1583576868327" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/neet_coder/Main.java</url>
-          <line>5</line>
+          <line>6</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_79_Word_Search.java</url>
           <line>30</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_297_Serialize_and_Deserialize_Binary_Tree.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

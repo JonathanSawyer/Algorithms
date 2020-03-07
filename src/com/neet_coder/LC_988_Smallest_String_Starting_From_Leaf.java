@@ -8,6 +8,6 @@ public class LC_988_Smallest_String_Starting_From_Leaf {
     }
 
     public static String smallestFromLeaf(TreeNode root) {
-
+        return "";
     }
 }

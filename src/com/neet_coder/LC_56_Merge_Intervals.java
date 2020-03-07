@@ -6,6 +6,6 @@ public class LC_56_Merge_Intervals {
     }
 
     public int[][] merge(int[][] intervals) {
-
+        return null;
     }
 }
