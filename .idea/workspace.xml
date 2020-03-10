@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_215_Kth_Largest_Element_in_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_347_Top_K_Frequent_Elements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_215_Kth_Largest_Element_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_215_Kth_Largest_Element_in_an_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +173,7 @@
       <workItem from="1583399737902" duration="509000" />
       <workItem from="1583572493011" duration="10121000" />
       <workItem from="1583842663949" duration="3864000" />
-      <workItem from="1583847065434" duration="499000" />
+      <workItem from="1583847065434" duration="1108000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -323,11 +321,6 @@
           <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_347_Top_K_Frequent_Elements.java</url>
           <line>34</line>
           <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_215_Kth_Largest_Element_in_an_Array.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

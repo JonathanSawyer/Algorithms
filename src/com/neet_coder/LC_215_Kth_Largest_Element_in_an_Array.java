@@ -6,6 +6,10 @@ import java.util.Map.Entry;
 import java.util.PriorityQueue;
 import java.util.Set;
 
+// https://en.wikipedia.org/wiki/Median_of_medians
+// sort = n log n
+// heap = n log k
+// quick select = n
 public class LC_215_Kth_Largest_Element_in_an_Array {
     public static void run() {
         int kthLargest1 = findKthLargest(new int[] { 3, 2, 1, 5, 6, 4 }, 2);
@@ -13,26 +17,17 @@ public class LC_215_Kth_Largest_Element_in_an_Array {
     }
 
     public static int findKthLargest(int[] nums, int k) {
-        final HashMap<Integer, Integer> sums = new HashMap<>();
-        for (int num : nums) {
-            sums.merge(num, 1, Integer::sum);
+        // init heap 'the smallest element first'
+        PriorityQueue<Integer> heap = new PriorityQueue<>(Comparator.comparingInt(n -> n));
+
+        // keep k largest elements in the heap
+        for (int n: nums) {
+            heap.add(n);
+            if (heap.size() > k)
+                heap.poll();
         }
 
-        final PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(Comparator.reverseOrder());
-        final Set<Entry<Integer, Integer>> entry = sums.entrySet();
-        for (Entry<Integer, Integer> e : entry) {
-            priorityQueue.add(e.getKey());
-        }
-
-        while(k-- > 1) {
-            Integer count = sums.get(priorityQueue.peek());
-            count--;
-            if(count == 0) {
-                priorityQueue.poll();
-            }else {
-                sums.put(priorityQueue.peek(), count);
-            }
-        }
-        return priorityQueue.poll();
+        // output
+        return heap.poll();
     }
 }
