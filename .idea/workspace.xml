@@ -2,20 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/BinaryIndexTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_277_Find_the_Celebrity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_33_Search_in_Rotated_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_5178_Four_Divisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_5367_Longest_Happy_Prefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_5368_Find_Lucky_Integer_in_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_5369_Count_Number_of_Teams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_5370_Design_Underground_System.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_785_Is_Graph_Bipartite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_886_Possible_Bipartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code_jam_2020/qualifying/Nesting_Depth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code_jam_2020/qualifying/Nesting_Depth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code_jam_2020/qualifying/Parenting_Partnering_Returns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code_jam_2020/qualifying/Parenting_Partnering_Returns.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code_jam_2020/qualifying/Vestigium.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code_jam_2020/qualifying/Vetigium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1095_Find_in_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_380_Insert_Delete_GetRandom_O_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5360_Count_Largest_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5362_Construct_K_Palindrome_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_844_Backspace_String_Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_Counting_Elements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_69_Sqrt_x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/LC_69_Sqrt_x.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neet_coder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/BinaryIndexTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/BinaryIndexTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_101_symmetric_tree_iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_101_symmetric_tree_iterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_101_symmetric_tree_recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_101_symmetric_tree_recursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_102_Binary_Tree_Level_Order_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_102_Binary_Tree_Level_Order_Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_103_Binary_Tree_Zigzag_Level_Order_Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_108_Convert_Sorted_Array_to_Binary_Search_Tree_Recursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_116_Populating_Next_Right_Pointers_in_Each_Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_116_Populating_Next_Right_Pointers_in_Each_Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_118_Pascals_Triangle_Naive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_118_Pascals_Triangle_Naive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_118_Pascals_Triangle_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_118_Pascals_Triangle_Recursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_121_Best_Time_to_Buy_and_Sell_Stock_Brute_Force.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_121_Best_Time_to_Buy_and_Sell_Stock_Recursion_with_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_122_Best_Time_to_Buy_and_Sell_Stock_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_122_Best_Time_to_Buy_and_Sell_Stock_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1249_Minimum_Remove_to_Make_Valid_Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1317_Convert_Integer_to_the_Sum_of_Two_No_Zero_Integers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1317_Convert_Integer_to_the_Sum_of_Two_No_Zero_Integers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1323_Maximum_69_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1323_Maximum_69_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1325_Delete_Leaves_With_a_Given_Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1325_Delete_Leaves_With_a_Given_Value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1341_The_K_Weakest_Rows_in_a_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1341_The_K_Weakest_Rows_in_a_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1342_Reduce_Array_Size_to_The_Half.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1342_Reduce_Array_Size_to_The_Half.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1346_Check_If_N_and_Its_Double_Exist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1346_Check_If_N_and_Its_Double_Exist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_1348_Tweet_Counts_Per_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1348_Tweet_Counts_Per_Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_13_Roman_to_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_13_Roman_to_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_155_Min_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_155_Min_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_15_3Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_15_3Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_160_Intersection_of_Two_Linked_Lists_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_160_Intersection_of_Two_Linked_Lists_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_160_Intersection_of_Two_Linked_Lists_Two_Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_160_Intersection_of_Two_Linked_Lists_Two_Pointers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_162_Find_Peak_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_162_Find_Peak_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_163_Missing_Ranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_163_Missing_Ranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_166_Fraction_to_Recurring_Decimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_166_Fraction_to_Recurring_Decimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_169_Majority_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_169_Majority_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_172_Factorial_Trailing_Zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_172_Factorial_Trailing_Zeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_17_Letter_Combinations_of_a_Phone_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_17_Letter_Combinations_of_a_Phone_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_190_Reverse_Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_190_Reverse_Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_191_Number_of_1_Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_191_Number_of_1_Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_198_House_Robber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_198_House_Robber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_200_Number_of_Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_200_Number_of_Islands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_202_Happy_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_202_Happy_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_204_Count_Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_204_Count_Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_20_Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_20_Valid_Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_215_Kth_Largest_Element_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_215_Kth_Largest_Element_in_an_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_22_Generate_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_22_Generate_Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_230_Kth_Smallest_Element_in_a_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_230_Kth_Smallest_Element_in_a_BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_240Search_a_2D_Matrix_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_240Search_a_2D_Matrix_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_251_Flatten_2D_Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_251_Flatten_2D_Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_253_Meeting_Rooms_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_253_Meeting_Rooms_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_268_Missing_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_268_Missing_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_26_Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_26_Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_277_Find_the_Celebrity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_277_Find_the_Celebrity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_278_First_Bad_Version.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_278_First_Bad_Version.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_285_Inorder_Successor_in_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_285_Inorder_Successor_in_BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_295_Find_Median_from_Data_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_295_Find_Median_from_Data_Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_297_Serialize_and_Deserialize_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_297_Serialize_and_Deserialize_Binary_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_2_Add_Two_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_2_Add_Two_Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_300_Longest_Increasing_Subsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_300_Longest_Increasing_Subsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_322_Coin_Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_322_Coin_Change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_326_Power_of_Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_326_Power_of_Three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_328_Odd_Even_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_328_Odd_Even_Linked_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_334_Increasing_Triplet_Subsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_334_Increasing_Triplet_Subsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_334_Increasing_Triplet_Subsequence_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_334_Increasing_Triplet_Subsequence_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_33_Search_in_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_33_Search_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_347_Top_K_Frequent_Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_347_Top_K_Frequent_Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_384_Suffle_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_384_Suffle_an_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_3_Longest_Substring_Without_Repeating_Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_3_Longest_Substring_Without_Repeating_Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_412_Fizz_Buzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_412_Fizz_Buzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_461_Hamming_Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_461_Hamming_Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_46_Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_46_Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_49_Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_49_Group_Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_50_Pow_x_n.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_50_Pow_x_n.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5178_Four_Divisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5178_Four_Divisors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_51_N_Queens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_51_N_Queens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5319_Remove_Palindromic_Subsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5319_Remove_Palindromic_Subsequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5320_Filter_Restaurants_by_Vegan_Friendly_Price_and_Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5320_Filter_Restaurants_by_Vegan_Friendly_Price_and_Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5340_Count_Negative_Numbers_in_a_Sorted_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5340_Count_Negative_Numbers_in_a_Sorted_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5341_Product_of_the_Last_K_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5341_Product_of_the_Last_K_Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5342_Maximum_Number_of_Events_That_Can_Be_Attended.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5342_Maximum_Number_of_Events_That_Can_Be_Attended.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5364_Create_Target_Array_in_the_Given_Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5364_Create_Target_Array_in_the_Given_Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5367_Longest_Happy_Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5367_Longest_Happy_Prefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5368_Find_Lucky_Integer_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5368_Find_Lucky_Integer_in_an_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5369_Count_Number_of_Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5369_Count_Number_of_Teams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5370_Design_Underground_System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5370_Design_Underground_System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_55_Jump_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_55_Jump_Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_56_Merge_Intervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_56_Merge_Intervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_5_Longest_Palindromic_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5_Longest_Palindromic_Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_62_Unique_Paths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_62_Unique_Paths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_678_Valid_Parenthesis_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_678_Valid_Parenthesis_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_69_Sqrt_x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_69_Sqrt_x.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_70_Climbing_Stairs_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_70_Climbing_Stairs_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_70_Climbing_Stairs_Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_70_Climbing_Stairs_Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_70_Climbing_Stairs_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_70_Climbing_Stairs_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_70_Climbing_Stairs_Recursion_with_Memoization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_70_Climbing_Stairs_Recursion_with_Memoization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_73_Set_Matrix_Zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_73_Set_Matrix_Zeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_74_Search_a_2D_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_74_Search_a_2D_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_75_Sort_Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_75_Sort_Colors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_785_Is_Graph_Bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_785_Is_Graph_Bipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_78_Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_78_Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_79_Word_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_79_Word_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_886_Possible_Bipartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_886_Possible_Bipartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_88_Merge_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_88_Merge_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_94_Binary_Tree_Inorder_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_94_Binary_Tree_Inorder_Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_988_Smallest_String_Starting_From_Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_988_Smallest_String_Starting_From_Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_98_validate_binary_search_tree_iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_98_validate_binary_search_tree_iterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_98_validate_binary_search_tree_recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_98_validate_binary_search_tree_recursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LC_9_Palindrome_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_9_Palindrome_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LD_108_Convert_Sorted_Array_to_Binary_Search_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Question_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/Question_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/Recusion_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/Recusion_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/jjjj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/jjjj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/models/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/models/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/models/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/models/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/test_change_position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/test_change_position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neet_coder/text" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/text" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +198,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.neet_coder.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.Main" />
       <module name="LeetCode" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -204,6 +320,15 @@
       <workItem from="1585639114792" duration="598000" />
       <workItem from="1585702217671" duration="2420000" />
       <workItem from="1585789975516" duration="6635000" />
+      <workItem from="1585970095824" duration="19633000" />
+      <workItem from="1586010424455" duration="4827000" />
+      <workItem from="1586221938030" duration="545000" />
+      <workItem from="1586222730929" duration="11139000" />
+      <workItem from="1586323017457" duration="647000" />
+      <workItem from="1586393598640" duration="4666000" />
+      <workItem from="1586412194684" duration="2083000" />
+      <workItem from="1586419597597" duration="738000" />
+      <workItem from="1586472869570" duration="3857000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -260,109 +385,117 @@
     <state x="440" y="23" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.797@0.23.1440.797" timestamp="1583245590738" />
     <state x="440" y="23" width="573" height="808" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.808@0.23.1440.808" timestamp="1585617841729" />
     <state x="440" y="23" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.812@0.23.1440.812" timestamp="1584845849266" />
-    <state x="351" y="83" width="1089" height="751" key="#xdebugger.evaluate" timestamp="1585452730255">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="225" y="83" width="1089" height="751" key="#xdebugger.evaluate" timestamp="1586014018599">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="705" y="65" width="735" height="751" key="#xdebugger.evaluate/0.23.1440.793@0.23.1440.793" timestamp="1584244416287" />
     <state x="507" y="69" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1583314029180" />
     <state x="507" y="69" key="#xdebugger.evaluate/0.23.1440.798@0.23.1440.798" timestamp="1583576992045" />
+    <state x="225" y="83" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1586014018599" />
     <state x="351" y="83" width="1089" height="751" key="#xdebugger.evaluate/0.23.1440.811@0.23.1440.811" timestamp="1585452730255" />
-    <state width="476" height="632" key="DebuggerActiveHint" timestamp="1585479425178">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state x="351" y="83" key="#xdebugger.evaluate/0.23.1440.812@0.23.1440.812" timestamp="1585986122465" />
+    <state width="483" height="628" key="DebuggerActiveHint" timestamp="1586397049227">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="474" height="617" key="DebuggerActiveHint/0.23.1440.793@0.23.1440.793" timestamp="1584243114960" />
     <state width="439" height="618" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1583326134976" />
     <state width="454" height="619" key="DebuggerActiveHint/0.23.1440.798@0.23.1440.798" timestamp="1583581531145" />
+    <state width="483" height="628" key="DebuggerActiveHint/0.23.1440.806@0.23.1440.806" timestamp="1586397049227" />
+    <state width="476" height="629" key="DebuggerActiveHint/0.23.1440.808@0.23.1440.808" timestamp="1586013981910" />
     <state width="478" height="630" key="DebuggerActiveHint/0.23.1440.811@0.23.1440.811" timestamp="1585452676713" />
-    <state width="476" height="632" key="DebuggerActiveHint/0.23.1440.812@0.23.1440.812" timestamp="1585479425178" />
-    <state width="314" height="609" key="GridCell.Tab.0.bottom" timestamp="1585874994547">
+    <state width="483" height="632" key="DebuggerActiveHint/0.23.1440.812@0.23.1440.812" timestamp="1586222494835" />
+    <state width="1282" height="113" key="GridCell.Tab.0.bottom" timestamp="1586477138738">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1585874994547" />
+    <state width="1282" height="113" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1586477138738" />
     <state width="420" height="609" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
-    <state width="342" height="582" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1583713591592" />
     <state width="429" height="425" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584367619974" />
-    <state width="314" height="609" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1585792457997" />
+    <state width="635" height="147" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1586419447010" />
+    <state width="635" height="147" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1586416900667" />
     <state width="336" height="635" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1585454018671" />
-    <state width="285" height="635" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1585479561331" />
-    <state width="457" height="542" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584850168543" />
-    <state width="314" height="609" key="GridCell.Tab.0.center" timestamp="1585874994546">
+    <state width="1282" height="116" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1586227899819" />
+    <state width="332" height="609" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1585970164392" />
+    <state width="1282" height="113" key="GridCell.Tab.0.center" timestamp="1586477138737">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1585874994546" />
+    <state width="1282" height="113" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1586477138737" />
     <state width="420" height="609" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583331235854" />
-    <state width="342" height="582" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1583713591590" />
     <state width="429" height="425" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584367619973" />
-    <state width="314" height="609" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1585792457996" />
+    <state width="635" height="147" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1586419447009" />
+    <state width="635" height="147" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1586416900666" />
     <state width="336" height="635" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1585454018671" />
-    <state width="285" height="635" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1585479561330" />
-    <state width="457" height="542" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1584850168543" />
-    <state width="314" height="609" key="GridCell.Tab.0.left" timestamp="1585874994546">
+    <state width="1282" height="116" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1586227899818" />
+    <state width="332" height="609" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1585970164391" />
+    <state width="1282" height="113" key="GridCell.Tab.0.left" timestamp="1586477138737">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1585874994546" />
+    <state width="1282" height="113" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1586477138737" />
     <state width="420" height="609" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583331235854" />
-    <state width="342" height="582" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1583713591572" />
     <state width="429" height="425" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584367619972" />
-    <state width="314" height="609" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1585792457996" />
+    <state width="635" height="147" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1586419447009" />
+    <state width="635" height="147" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1586416900666" />
     <state width="336" height="635" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1585454018670" />
-    <state width="285" height="635" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1585479561328" />
-    <state width="457" height="542" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1584850168542" />
-    <state width="314" height="609" key="GridCell.Tab.0.right" timestamp="1585874994547">
+    <state width="1282" height="116" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1586227899818" />
+    <state width="332" height="609" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1585970164391" />
+    <state width="1282" height="113" key="GridCell.Tab.0.right" timestamp="1586477138737">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1585874994547" />
+    <state width="1282" height="113" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1586477138737" />
     <state width="420" height="609" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
-    <state width="342" height="582" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1583713591591" />
     <state width="429" height="425" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584367619973" />
-    <state width="314" height="609" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1585792457996" />
+    <state width="635" height="147" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1586419447009" />
+    <state width="635" height="147" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1586416900667" />
     <state width="336" height="635" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1585454018671" />
-    <state width="285" height="635" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1585479561330" />
-    <state width="457" height="542" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1584850168543" />
-    <state width="314" height="609" key="GridCell.Tab.1.bottom" timestamp="1585874994548">
+    <state width="1282" height="116" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1586227899818" />
+    <state width="332" height="609" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1585970164392" />
+    <state width="149" height="420" key="GridCell.Tab.1.bottom" timestamp="1586474214140">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1585874994548" />
+    <state width="149" height="420" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1586474214140" />
     <state width="420" height="609" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
     <state width="342" height="582" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1583713591593" />
     <state width="429" height="425" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584367619976" />
-    <state width="314" height="609" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1585792457998" />
+    <state width="149" height="410" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1586397041628" />
+    <state width="149" height="419" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1586412142326" />
     <state width="336" height="635" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1585454018672" />
-    <state width="285" height="635" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1585479561473" />
-    <state width="457" height="542" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584850168544" />
-    <state width="314" height="609" key="GridCell.Tab.1.center" timestamp="1585874994548">
+    <state width="149" height="609" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1586222488963" />
+    <state width="332" height="609" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1585970164394" />
+    <state width="149" height="420" key="GridCell.Tab.1.center" timestamp="1586474214139">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1585874994548" />
+    <state width="149" height="420" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1586474214139" />
     <state width="420" height="609" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
     <state width="342" height="582" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1583713591592" />
     <state width="429" height="425" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1584367619975" />
-    <state width="314" height="609" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1585792457997" />
+    <state width="149" height="410" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1586397041627" />
+    <state width="149" height="419" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1586412142325" />
     <state width="336" height="635" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1585454018672" />
-    <state width="285" height="635" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1585479561472" />
-    <state width="457" height="542" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1584850168544" />
-    <state width="314" height="609" key="GridCell.Tab.1.left" timestamp="1585874994547">
+    <state width="149" height="609" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1586222488962" />
+    <state width="332" height="609" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1585970164393" />
+    <state width="149" height="420" key="GridCell.Tab.1.left" timestamp="1586474214139">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1585874994547" />
+    <state width="149" height="420" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1586474214139" />
     <state width="420" height="609" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1583331235855" />
     <state width="342" height="582" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1583713591592" />
     <state width="429" height="425" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1584367619974" />
-    <state width="314" height="609" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1585792457997" />
+    <state width="149" height="410" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1586397041626" />
+    <state width="149" height="419" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1586412142325" />
     <state width="336" height="635" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1585454018671" />
-    <state width="285" height="635" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1585479561472" />
-    <state width="457" height="542" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1584850168543" />
-    <state width="314" height="609" key="GridCell.Tab.1.right" timestamp="1585874994548">
+    <state width="149" height="609" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1586222488962" />
+    <state width="332" height="609" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1585970164393" />
+    <state width="149" height="420" key="GridCell.Tab.1.right" timestamp="1586474214140">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="314" height="609" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1585874994548" />
+    <state width="149" height="420" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1586474214140" />
     <state width="420" height="609" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1583331235856" />
     <state width="342" height="582" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1583713591593" />
     <state width="429" height="425" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1584367619975" />
-    <state width="314" height="609" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1585792457997" />
+    <state width="149" height="410" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1586397041628" />
+    <state width="149" height="419" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1586412142326" />
     <state width="336" height="635" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1585454018672" />
-    <state width="285" height="635" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1585479561472" />
-    <state width="457" height="542" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1584850168544" />
+    <state width="149" height="609" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1586222488963" />
+    <state width="332" height="609" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1585970164393" />
     <state x="249" y="79" key="SettingsEditor" timestamp="1583242144546">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -371,90 +504,110 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="60" y="78" key="caller.chooser.dialog/0.23.1440.808@0.23.1440.808" timestamp="1585616929714" />
+    <state x="152" y="139" width="1124" height="585" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1586224514698">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="152" y="139" width="1124" height="585" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.1440.812@0.23.1440.812" timestamp="1586224514698" />
     <state x="512" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585478273024">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="512" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.793@0.23.1440.793" timestamp="1584242916991" />
     <state x="512" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1583244910782" />
     <state x="512" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.812@0.23.1440.812" timestamp="1585478273024" />
-    <state x="380" y="169" width="687" height="527" key="find.popup" timestamp="1585790465972">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="380" y="170" width="837" height="582" key="find.popup" timestamp="1586222357905">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="380" y="167" width="687" height="518" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1583327379180" />
     <state x="380" y="169" width="687" height="527" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1585790465972" />
     <state x="380" y="170" width="687" height="528" key="find.popup/0.23.1440.811@0.23.1440.811" timestamp="1585449118912" />
-    <state x="380" y="170" width="687" height="529" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1584539960738" />
-    <state x="388" y="145" width="670" height="686" key="search.everywhere.popup" timestamp="1585619384338">
+    <state x="380" y="170" width="837" height="582" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1586222357905" />
+    <state x="424" y="50" key="refactoring.ChangeSignatureDialog" timestamp="1586013730544">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
+    <state x="424" y="50" key="refactoring.ChangeSignatureDialog/0.23.1440.808@0.23.1440.808" timestamp="1586013730544" />
+    <state x="388" y="144" width="670" height="674" key="search.everywhere.popup" timestamp="1586474413675">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="388" y="144" width="670" height="674" key="search.everywhere.popup/0.23.1440.793@0.23.1440.793" timestamp="1586474413675" />
     <state x="388" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1583327373923" />
     <state x="388" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1583576868327" />
     <state x="388" y="145" width="670" height="686" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1585619384338" />
     <state x="388" y="146" width="670" height="689" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1584941865811" />
-    <state x="388" y="146" width="670" height="689" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1585474319689" />
+    <state x="388" y="146" width="670" height="689" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1586222040549" />
+    <state x="388" y="147" width="670" height="693" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1586309370576" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_79_Word_Search.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_79_Word_Search.java</url>
           <line>30</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_297_Serialize_and_Deserialize_Binary_Tree.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_297_Serialize_and_Deserialize_Binary_Tree.java</url>
           <line>33</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_347_Top_K_Frequent_Elements.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_347_Top_K_Frequent_Elements.java</url>
           <line>34</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/Question_1.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/Question_1.java</url>
           <line>64</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/Question_1.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/Question_1.java</url>
           <line>47</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/Question2.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/Question2.java</url>
           <line>12</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_300_Longest_Increasing_Subsequence.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_300_Longest_Increasing_Subsequence.java</url>
           <line>14</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_253_Meeting_Rooms_II.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_5178_Four_Divisors.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_5178_Four_Divisors.java</url>
           <line>7</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_5367_Longest_Happy_Prefix.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_5367_Longest_Happy_Prefix.java</url>
           <line>7</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_5370_Design_Underground_System.java</url>
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_5370_Design_Underground_System.java</url>
           <line>27</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/neet_coder/LC_785_Is_Graph_Bipartite.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="127" />
+          <url>file://$PROJECT_DIR$/src/com/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_5360_Count_Largest_Group.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_56_Merge_Intervals.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_380_Insert_Delete_GetRandom_O_1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
