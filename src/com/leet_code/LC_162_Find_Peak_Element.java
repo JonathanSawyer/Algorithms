@@ -18,21 +18,4 @@ public class LC_162_Find_Peak_Element {
         }
         return l;
     }
-
-    private static int binarySearch(long[] a, int fromIndex, int toIndex,
-                                    long key) {
-        int low = fromIndex;
-        int high = toIndex - 1;
-
-        while (low <= high) {
-            // Can't remember exactly the reason for this.
-            int mid = (low + high) >>> 1;
-            long midVal = a[mid];
-
-            if (midVal < key) { low = mid + 1; } else if (midVal > key) { high = mid - 1; } else {
-                return mid; // key found
-            }
-        }
-        return -(low + 1);  // key not found.
-    }
 }
