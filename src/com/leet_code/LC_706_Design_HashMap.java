@@ -7,10 +7,10 @@ import com.leet_code.LC_706_Design_HashMap.MyHashMap.ListNode;
 public class LC_706_Design_HashMap {
     public static void run() {
         MyHashMap obj = new MyHashMap();
-        obj.put(10000, 1);
-        obj.put(10000, 2);
-        obj.put(10000, 3);
-        obj.put(10, 4);
+//        obj.put(10000, 1);
+//        obj.put(10000, 2);
+//        obj.put(10000, 3);
+//        obj.put(10, 4);
         obj.put(1, 5);
         obj.put(10001, 6);
 
@@ -25,11 +25,13 @@ public class LC_706_Design_HashMap {
             }
         }
 
-//        out.println(obj.get(10));
-        obj.remove(1);
         out.println(obj.get(1));
+        out.println(obj.get(10001));
 
+        obj.remove(1);
         obj.remove(10001);
+
+        out.println(obj.get(1));
         out.println(obj.get(10001));
 
 //        out.println(obj.get(1));
@@ -77,6 +79,9 @@ public class LC_706_Design_HashMap {
             }
         }
 
+//        p    c
+//        1 -> 2 -> 3 -> 4
+
         public int get(int key) {
             int idx = idx(key);
             ListNode node = nodes[idx];
@@ -96,23 +101,20 @@ public class LC_706_Design_HashMap {
             final int idx = idx(key);
             final ListNode node = nodes[idx];
             if (node == null) {return;}
-            ListNode cur = node;
-            final ListNode root = cur;
-            ListNode nxt = node.next;
-            if (nxt == null) {
-                nodes[idx] = null;
-            } else {
-                while (cur != null) {
-                    if (cur.key == key) {
-                        cur = nxt.next;
-                        nodes[idx] = root;
-                        return;
-                    } else {
-                        cur = nxt;
-                        nxt = cur.next;
-                    }
+            ListNode sentinel = new ListNode(0, 0);
+            sentinel.next = node;
+
+            ListNode prev = sentinel, curr = node;
+            while (curr != null) {
+                if (curr.key == key) {
+                    prev.next = curr.next;
                 }
+                else {
+                    prev = curr;
+                }
+                curr = curr.next;
             }
+            nodes[idx] = sentinel.next;
         }
 
         int idx(int key) {
