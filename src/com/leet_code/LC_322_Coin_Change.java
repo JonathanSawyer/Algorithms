@@ -2,9 +2,8 @@ package com.leet_code;
 
 import static java.lang.System.out;
 
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
 
 public class LC_322_Coin_Change {
     public static void run() {
@@ -13,31 +12,18 @@ public class LC_322_Coin_Change {
         out.println(coinChange(new int[] { 186, 419, 83, 408 }, 6249));        //6249
     }
 
-    public static int coinChange(int[] coins, int amount) {
-        int min = Integer.MAX_VALUE;
-        List<Integer> coinsReverse = new ArrayList<>();
-        for (int coin : coins) { coinsReverse.add(coin); }
-        Collections.sort(coinsReverse, Collections.reverseOrder());
-
-        int tempAmount = amount;
-        int tempMin = 0;
-        for (int i = 0; i < coinsReverse.size(); i++) {
-            int coin = coinsReverse.get(i);
-            while (tempAmount > 0) {
-                tempAmount -= coin;
-                tempMin++;
-            }
-            if (tempAmount == 0) {
-                min = Math.min(tempMin, min);
-                tempAmount = amount;
-            } else {
-                tempAmount += coin;
-                tempMin--;
+    public int coinChange(int[] coins, int amount) {
+        int max = amount + 1;
+        int[] dp = new int[amount + 1];
+        Arrays.fill(dp, max);
+        dp[0] = 0;
+        for (int i = 1; i <= amount; i++) {
+            for (int j = 0; j < coins.length; j++) {
+                if (coins[j] <= i) {
+                    dp[i] = Math.min(dp[i], dp[i - coins[j]] + 1);
+                }
             }
         }
-        if (min == Integer.MAX_VALUE) {
-            return -1;
-        }
-        return min;
+        return dp[amount] > amount ? -1 : dp[amount];
     }
 }
