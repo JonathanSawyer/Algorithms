@@ -12,7 +12,7 @@ public class LC_322_Coin_Change {
         out.println(coinChange(new int[] { 186, 419, 83, 408 }, 6249));        //6249
     }
 
-    public int coinChange(int[] coins, int amount) {
+    public static int coinChange(int[] coins, int amount) {
         int max = amount + 1;
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, max);
