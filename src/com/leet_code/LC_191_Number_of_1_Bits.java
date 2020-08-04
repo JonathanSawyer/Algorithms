@@ -1,6 +1,9 @@
 package com.leet_code;
 
 public class LC_191_Number_of_1_Bits {
+    public static void main(String[] args) {
+
+    }
     public static void run() {
         // Logical &
         final int logicalAnd1 = 1 & 11; // 1

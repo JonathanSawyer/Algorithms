@@ -1,6 +1,9 @@
 package com.leet_code;
 
 public class LC_121_Best_Time_to_Buy_and_Sell_Stock_DP_One_Pass {
+    public static void main(String[] args) {
+
+    }
     public static void run() {
         int i = maxProfit(new int[] { 7, 1, 5, 3, 6, 4 });
     }
