@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_211_Add_and_Search_Word_Data_structure_design.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_47_Permutations_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5483_Make_The_String_Great.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5486_Minimum_Cost_to_Cut_a_Stick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/models/LC_5484_Find_Kth_Bit_in_Nth_Binary_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,18 +69,79 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LC_47_Permutations_II">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.Main" />
+    <configuration name="LC_211_Add_and_Search_Word_Data_structure_design" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_211_Add_and_Search_Word_Data_structure_design" />
       <module name="LeetCode" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_47_Permutations_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_47_Permutations_II" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_5483_Make_The_String_Great" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_5483_Make_The_String_Great" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_5484_Find_Kth_Bit_in_Nth_Binary_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.models.LC_5484_Find_Kth_Bit_in_Nth_Binary_String" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_5486_Minimum_Cost_to_Cut_a_Stick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_5486_Minimum_Cost_to_Cut_a_Stick" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,15 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,7 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LC_47_Permutations_II" />
+        <item itemvalue="Application.LC_5486_Minimum_Cost_to_Cut_a_Stick" />
+        <item itemvalue="Application.LC_5484_Find_Kth_Bit_in_Nth_Binary_String" />
+        <item itemvalue="Application.LC_5483_Make_The_String_Great" />
+        <item itemvalue="Application.LC_211_Add_and_Search_Word_Data_structure_design" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +311,16 @@
       <workItem from="1596534309637" duration="518000" />
       <workItem from="1596579773175" duration="1072000" />
       <workItem from="1596580850246" duration="1633000" />
-      <workItem from="1596616008007" duration="601000" />
+      <workItem from="1596616008007" duration="753000" />
+      <workItem from="1596666803208" duration="1564000" />
+      <workItem from="1596763840056" duration="1492000" />
+      <workItem from="1596870144326" duration="8488000" />
+      <workItem from="1596940185133" duration="5330000" />
+      <workItem from="1597020414256" duration="551000" />
+      <workItem from="1597100969446" duration="6000" />
+      <workItem from="1597136109090" duration="1808000" />
+      <workItem from="1597189117668" duration="5000" />
+      <workItem from="1597220183304" duration="4471000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -273,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596581806256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tri">
+      <created>1596620422058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596620422058</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -303,57 +387,79 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove out folder" />
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="tri" />
+    <option name="LAST_COMMIT_MESSAGE" value="tri" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="837" y="181" key="CommitChangelistDialog2" timestamp="1596581806165">
+    <state x="948" y="292" width="1178" height="798" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596871489665">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="837" y="181" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1596581806165" />
-    <state width="199" height="511" key="GridCell.Tab.0.bottom" timestamp="1588197817515">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="948" y="292" width="1178" height="798" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1596871489665" />
+    <state x="1043" y="316" key="#xdebugger.evaluate" timestamp="1596875425981">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1588197817515" />
-    <state width="199" height="511" key="GridCell.Tab.0.center" timestamp="1588197817515">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="1043" y="316" key="#xdebugger.evaluate/0.23.2560.1337@0.23.2560.1337" timestamp="1596875425981" />
+    <state x="837" y="181" key="CommitChangelistDialog2" timestamp="1596620422001">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1588197817515" />
-    <state width="199" height="511" key="GridCell.Tab.0.left" timestamp="1588197817514">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="837" y="181" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1596620422001" />
+    <state width="1096" height="646" key="DebuggerActiveHint" timestamp="1596942295617">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1588197817514" />
-    <state width="199" height="511" key="GridCell.Tab.0.right" timestamp="1588197817515">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1096" height="646" key="DebuggerActiveHint/0.23.2560.1337@0.23.2560.1337" timestamp="1596942295617" />
+    <state width="2518" height="258" key="GridCell.Tab.0.bottom" timestamp="1597223962880">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1588197817515" />
-    <state width="199" height="511" key="GridCell.Tab.1.bottom" timestamp="1588197817517">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="2518" height="258" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597223962880" />
+    <state width="2518" height="258" key="GridCell.Tab.0.center" timestamp="1597223962879">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1588197817517" />
-    <state width="199" height="511" key="GridCell.Tab.1.center" timestamp="1588197817516">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="2518" height="258" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597223962879" />
+    <state width="2518" height="258" key="GridCell.Tab.0.left" timestamp="1597223962879">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1588197817516" />
-    <state width="199" height="511" key="GridCell.Tab.1.left" timestamp="1588197817515">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="2518" height="258" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597223962879" />
+    <state width="2518" height="258" key="GridCell.Tab.0.right" timestamp="1597223962880">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1588197817515" />
-    <state width="199" height="511" key="GridCell.Tab.1.right" timestamp="1588197817516">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="2518" height="258" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597223962880" />
+    <state width="2518" height="324" key="GridCell.Tab.1.bottom" timestamp="1597223473672">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="199" height="511" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1588197817516" />
+    <state width="2518" height="324" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597223473672" />
+    <state width="2518" height="324" key="GridCell.Tab.1.center" timestamp="1597223473672">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="324" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597223473672" />
+    <state width="2518" height="324" key="GridCell.Tab.1.left" timestamp="1597223473672">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="324" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597223473672" />
+    <state width="2518" height="324" key="GridCell.Tab.1.right" timestamp="1597223473672">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="324" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597223473672" />
     <state x="781" y="330" key="SettingsEditor" timestamp="1596581527993">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="781" y="330" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1596581527993" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1596533781574">
+    <state x="877" y="304" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597136539015">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="600" height="440" key="javadoc.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1596533781574" />
-    <state x="388" y="144" width="670" height="677" key="search.everywhere.popup" timestamp="1592271657627">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="877" y="304" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1597136539015" />
+    <state x="982" y="430" width="596" height="522" key="find.popup" timestamp="1597223638686">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="982" y="430" width="596" height="522" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597223638686" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1597137221180">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597137221180" />
+    <state x="690" y="226" width="1192" height="1135" key="search.everywhere.popup" timestamp="1597222632178">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="388" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1592271657627" />
+    <state x="690" y="226" width="1192" height="1135" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597222632178" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -457,6 +563,16 @@
           <url>file://$PROJECT_DIR$/src/com/leet_code/LC_953_Verifying_an_Alien_Dictionary.java</url>
           <line>18</line>
           <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leet_code/LC_5483_Make_The_String_Great.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leet_code/models/LC_5484_Find_Kth_Bit_in_Nth_Binary_String.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="171" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
