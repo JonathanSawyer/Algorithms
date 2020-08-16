@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5185_Three_Consecutive_Odds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1011_Capacity_To_Ship_Packages_Within_D_Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1552_Magnetic_Force_Between_Two_Balls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5488_Minimum_Operations_to_Make_Array_Equal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,15 +68,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Application.LC_5185_Three_Consecutive_Odds">
+  <component name="RunManager" selected="Application.LC_1011_Capacity_To_Ship_Packages_Within_D_Days">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_1249_Minimum_Remove_to_Make_Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_1249_Minimum_Remove_to_Make_Valid_Parentheses" />
+    <configuration name="LC_1011_Capacity_To_Ship_Packages_Within_D_Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_1011_Capacity_To_Ship_Packages_Within_D_Days" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -87,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_47_Permutations_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_47_Permutations_II" />
+    <configuration name="LC_1249_Minimum_Remove_to_Make_Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_1249_Minimum_Remove_to_Make_Valid_Parentheses" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -115,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_91_Decode_Ways" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_91_Decode_Ways" />
+    <configuration name="LC_5488_Minimum_Operations_to_Make_Array_Equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_5488_Minimum_Operations_to_Make_Array_Equal" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -149,15 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC_1011_Capacity_To_Ship_Packages_Within_D_Days" />
+        <item itemvalue="Application.LC_5488_Minimum_Operations_to_Make_Array_Equal" />
         <item itemvalue="Application.LC_5185_Three_Consecutive_Odds" />
         <item itemvalue="Application.LC_1249_Minimum_Remove_to_Make_Valid_Parentheses" />
         <item itemvalue="Application.LC_973_K_Closest_Points_to_Origin" />
-        <item itemvalue="Application.LC_91_Decode_Ways" />
-        <item itemvalue="Application.LC_47_Permutations_II" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +322,8 @@
       <workItem from="1597220183304" duration="5040000" />
       <workItem from="1597398289667" duration="1904000" />
       <workItem from="1597439802744" duration="9592000" />
-      <workItem from="1597527459294" duration="1007000" />
+      <workItem from="1597527459294" duration="10927000" />
+      <workItem from="1597616207474" duration="1560000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -409,45 +410,50 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="837" y="181" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1596620422001" />
-    <state width="1096" height="646" key="DebuggerActiveHint" timestamp="1596942295617">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="1096" height="645" key="DebuggerActiveHint" timestamp="1597548213804">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
+    <state width="1096" height="645" key="DebuggerActiveHint/0.23.2560.1333@0.23.2560.1333" timestamp="1597548213804" />
     <state width="1096" height="646" key="DebuggerActiveHint/0.23.2560.1337@0.23.2560.1337" timestamp="1596942295617" />
-    <state width="1708" height="257" key="GridCell.Tab.0.bottom" timestamp="1597545385650">
+    <state width="1787" height="322" key="GridCell.Tab.0.bottom" timestamp="1597573898834">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1708" height="257" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1597545385650" />
+    <state width="1787" height="322" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
     <state width="2518" height="324" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="1708" height="257" key="GridCell.Tab.0.center" timestamp="1597545385649">
+    <state width="1787" height="322" key="GridCell.Tab.0.center" timestamp="1597573898834">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1708" height="257" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1597545385649" />
+    <state width="1787" height="322" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
     <state width="2518" height="324" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="1708" height="257" key="GridCell.Tab.0.left" timestamp="1597545385649">
+    <state width="1787" height="322" key="GridCell.Tab.0.left" timestamp="1597573898834">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1708" height="257" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1597545385649" />
+    <state width="1787" height="322" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
     <state width="2518" height="324" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="1708" height="257" key="GridCell.Tab.0.right" timestamp="1597545385649">
+    <state width="1787" height="322" key="GridCell.Tab.0.right" timestamp="1597573898834">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1708" height="257" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1597545385649" />
+    <state width="1787" height="322" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
     <state width="2518" height="324" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="2518" height="324" key="GridCell.Tab.1.bottom" timestamp="1597275419129">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="1787" height="322" key="GridCell.Tab.1.bottom" timestamp="1597573898835">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
+    <state width="1787" height="322" key="GridCell.Tab.1.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898835" />
     <state width="2518" height="324" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="2518" height="324" key="GridCell.Tab.1.center" timestamp="1597275419129">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="1787" height="322" key="GridCell.Tab.1.center" timestamp="1597573898834">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
+    <state width="1787" height="322" key="GridCell.Tab.1.center/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
     <state width="2518" height="324" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="2518" height="324" key="GridCell.Tab.1.left" timestamp="1597275419129">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="1787" height="322" key="GridCell.Tab.1.left" timestamp="1597573898834">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
+    <state width="1787" height="322" key="GridCell.Tab.1.left/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
     <state width="2518" height="324" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="2518" height="324" key="GridCell.Tab.1.right" timestamp="1597275419129">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state width="1787" height="322" key="GridCell.Tab.1.right" timestamp="1597573898835">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
+    <state width="1787" height="322" key="GridCell.Tab.1.right/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898835" />
     <state width="2518" height="324" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state x="781" y="330" key="SettingsEditor" timestamp="1596581527993">
       <screen x="0" y="23" width="2560" height="1337" />
@@ -480,11 +486,11 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="685" y="325" key="run.anything.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597449805243" />
-    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup" timestamp="1597472455672">
+    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup" timestamp="1597571304092">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="388" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1592271657627" />
-    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597472455672" />
+    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597571304092" />
     <state x="690" y="226" width="1192" height="1135" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597222632178" />
   </component>
   <component name="XDebuggerManager">
