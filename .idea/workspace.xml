@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_173_Binary_Search_Tree_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_349_Intersection_of_Two_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_1552_Magnetic_Force_Between_Two_Balls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1552_Magnetic_Force_Between_Two_Balls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_349_Intersection_of_Two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_349_Intersection_of_Two_Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Application.LC_349_Intersection_of_Two_Arrays">
+  <component name="RunManager" selected="Application.LC_426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -116,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_5185_Three_Consecutive_Odds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_5185_Three_Consecutive_Odds" />
+    <configuration name="LC_426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC_426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List" />
         <item itemvalue="Application.LC_349_Intersection_of_Two_Arrays" />
         <item itemvalue="Application.LC_173_Binary_Search_Tree_Iterator" />
         <item itemvalue="Application.LC_1011_Capacity_To_Ship_Packages_Within_D_Days" />
         <item itemvalue="Application.LC_5488_Minimum_Operations_to_Make_Array_Equal" />
-        <item itemvalue="Application.LC_5185_Three_Consecutive_Odds" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +315,7 @@
       <workItem from="1597616207474" duration="2324000" />
       <workItem from="1597656386459" duration="2970000" />
       <workItem from="1597703861577" duration="607000" />
+      <workItem from="1597749247220" duration="5931000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -392,58 +394,59 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="948" y="292" width="1178" height="798" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1596871489665" />
-    <state x="1043" y="316" key="#xdebugger.evaluate" timestamp="1596875425981">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="1043" y="315" key="#xdebugger.evaluate" timestamp="1597750018178">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
+    <state x="1043" y="315" key="#xdebugger.evaluate/0.23.2560.1333@0.23.2560.1333" timestamp="1597750018178" />
     <state x="1043" y="316" key="#xdebugger.evaluate/0.23.2560.1337@0.23.2560.1337" timestamp="1596875425981" />
     <state x="837" y="181" key="CommitChangelistDialog2" timestamp="1596620422001">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="837" y="181" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1596620422001" />
-    <state width="1096" height="645" key="DebuggerActiveHint" timestamp="1597548213804">
+    <state width="1096" height="645" key="DebuggerActiveHint" timestamp="1597755265753">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1096" height="645" key="DebuggerActiveHint/0.23.2560.1333@0.23.2560.1333" timestamp="1597548213804" />
+    <state width="1096" height="645" key="DebuggerActiveHint/0.23.2560.1333@0.23.2560.1333" timestamp="1597755265753" />
     <state width="1096" height="646" key="DebuggerActiveHint/0.23.2560.1337@0.23.2560.1337" timestamp="1596942295617" />
-    <state width="2134" height="183" key="GridCell.Tab.0.bottom" timestamp="1597659361290">
+    <state width="2480" height="183" key="GridCell.Tab.0.bottom" timestamp="1597756267671">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="2134" height="183" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1597659361290" />
+    <state width="2480" height="183" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267671" />
     <state width="2518" height="324" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="2134" height="183" key="GridCell.Tab.0.center" timestamp="1597659361290">
+    <state width="2480" height="183" key="GridCell.Tab.0.center" timestamp="1597756267670">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="2134" height="183" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1597659361290" />
+    <state width="2480" height="183" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267670" />
     <state width="2518" height="324" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="2134" height="183" key="GridCell.Tab.0.left" timestamp="1597659361290">
+    <state width="2480" height="183" key="GridCell.Tab.0.left" timestamp="1597756267670">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="2134" height="183" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1597659361290" />
+    <state width="2480" height="183" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267670" />
     <state width="2518" height="324" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="2134" height="183" key="GridCell.Tab.0.right" timestamp="1597659361290">
+    <state width="2480" height="183" key="GridCell.Tab.0.right" timestamp="1597756267671">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="2134" height="183" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1597659361290" />
+    <state width="2480" height="183" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267671" />
     <state width="2518" height="324" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="1787" height="322" key="GridCell.Tab.1.bottom" timestamp="1597573898835">
+    <state width="2480" height="165" key="GridCell.Tab.1.bottom" timestamp="1597756267668">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1787" height="322" key="GridCell.Tab.1.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898835" />
+    <state width="2480" height="165" key="GridCell.Tab.1.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267668" />
     <state width="2518" height="324" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="1787" height="322" key="GridCell.Tab.1.center" timestamp="1597573898834">
+    <state width="2480" height="165" key="GridCell.Tab.1.center" timestamp="1597756267668">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1787" height="322" key="GridCell.Tab.1.center/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
+    <state width="2480" height="165" key="GridCell.Tab.1.center/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267668" />
     <state width="2518" height="324" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="1787" height="322" key="GridCell.Tab.1.left" timestamp="1597573898834">
+    <state width="2480" height="165" key="GridCell.Tab.1.left" timestamp="1597756267668">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1787" height="322" key="GridCell.Tab.1.left/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898834" />
+    <state width="2480" height="165" key="GridCell.Tab.1.left/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267668" />
     <state width="2518" height="324" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
-    <state width="1787" height="322" key="GridCell.Tab.1.right" timestamp="1597573898835">
+    <state width="2480" height="165" key="GridCell.Tab.1.right" timestamp="1597756267668">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="1787" height="322" key="GridCell.Tab.1.right/0.23.2560.1333@0.23.2560.1333" timestamp="1597573898835" />
+    <state width="2480" height="165" key="GridCell.Tab.1.right/0.23.2560.1333@0.23.2560.1333" timestamp="1597756267668" />
     <state width="2518" height="324" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state x="781" y="330" key="SettingsEditor" timestamp="1596581527993">
       <screen x="0" y="23" width="2560" height="1337" />
@@ -462,25 +465,25 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="613" y="380" key="extract.method.dialog/0.23.2560.1333@0.23.2560.1333" timestamp="1597399646380" />
-    <state x="982" y="429" width="596" height="522" key="find.popup" timestamp="1597656600409">
+    <state x="982" y="429" width="596" height="522" key="find.popup" timestamp="1597749342441">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state x="982" y="429" width="596" height="522" key="find.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597656600409" />
+    <state x="982" y="429" width="596" height="522" key="find.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597749342441" />
     <state x="982" y="430" width="596" height="522" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597223638686" />
-    <state width="600" height="439" key="javadoc.popup" timestamp="1597449118679">
+    <state width="600" height="439" key="javadoc.popup" timestamp="1597749835587">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
-    <state width="600" height="439" key="javadoc.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597449118679" />
+    <state width="600" height="439" key="javadoc.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597749835587" />
     <state width="600" height="440" key="javadoc.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597137221180" />
     <state x="685" y="325" key="run.anything.popup" timestamp="1597449805243">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="685" y="325" key="run.anything.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597449805243" />
-    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup" timestamp="1597657920181">
+    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup" timestamp="1597755849511">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="388" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1592271657627" />
-    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597657920181" />
+    <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597755849511" />
     <state x="690" y="226" width="1192" height="1135" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597222632178" />
   </component>
   <component name="XDebuggerManager">

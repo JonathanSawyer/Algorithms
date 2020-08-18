@@ -14,7 +14,6 @@ public class LC_349_Intersection_of_Two_Arrays {
         for (int i : nums1) { set1.add(i); }
         for (int i : nums2) { set2.add(i); }
         set1.retainAll(set2);
-        int[] result = new int[set1.size()];
         return set1.stream()
                    .mapToInt(Integer::intValue)
                    .toArray();
