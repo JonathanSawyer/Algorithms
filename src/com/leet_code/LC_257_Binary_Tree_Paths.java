@@ -36,7 +36,6 @@ public class LC_257_Binary_Tree_Paths {
         if (node == null) {
             return;
         }
-
         if (node.left == null && node.right == null) {
             path += node.val;
             res.add(path);
