@@ -1,4 +1,4 @@
-package com;
+package com.leet_code;
 
 import static java.lang.System.out;
 

@@ -1,4 +1,4 @@
-package com;
+package com.leet_code;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -15,9 +15,9 @@ public class LC_252_Meeting_Rooms {
             return true;
         }
         Arrays.sort(intervals, Comparator.comparingInt(a -> a[0]));
-        for (int i = 1; i < collect.size(); i++) {
-            final int[] prev = collect.get(i - 1);
-            final int[] curr = collect.get(i);
+        for (int i = 1; i < intervals.length; i++) {
+            final int[] prev = intervals[i - 1];
+            final int[] curr = intervals[i];
             if (prev[0] == curr[0]) {
                 return false;
             }

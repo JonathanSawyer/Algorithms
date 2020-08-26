@@ -1,4 +1,4 @@
-package com.leet_code.models;
+package com.leet_code;
 
 public class LC_5484_Find_Kth_Bit_in_Nth_Binary_String {
      public static void main(String[] args) {
