@@ -8,7 +8,7 @@ public class LC_977_Squares_of_a_Sorted_Array {
     }
 
     public static int[] sortedSquares(int[] A) {
-        int[] res = new int[A.length];
+        final int[] res = new int[A.length];
         for (int j = 0, aLength = A.length; j < aLength; j++) {
             int i = A[j] * A[j];
             res[j] = i;
