@@ -1,9 +1,5 @@
 package com.leet_code;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
 import java.util.Stack;
 
 import com.leet_code.models.TreeNode;
@@ -16,15 +12,15 @@ public class LC_111_Minimum_Depth_of_Binary_Tree {
         TreeNode n4 = new TreeNode(4);
         TreeNode n5 = new TreeNode(5);
         TreeNode n6 = new TreeNode(6);
-        n5.left = n3;
-        n3.left = n2;
-        n2.left = n1;
+//        n5.left = n3;
+//        n3.left = n2;
+//        n2.left = n1;
         n5.right = n6;
-        n3.right = n4;
+//        n3.right = n4;
 
-//         5
-//        / \
-//       3   6
+//          5
+//        /  \
+//       3    6
 //      / \
 //     2   4
 //    /
@@ -33,22 +29,28 @@ public class LC_111_Minimum_Depth_of_Binary_Tree {
     }
 
     public static int minDepth(TreeNode root) {
-        if (root == null) {
-            return 0;
+        int depth = 0;
+        Stack<TreeNode> q = new Stack<>();
+        Stack<TreeNode> l = new Stack<>();
+        q.add(root);
+        while (!q.isEmpty()) {
+            TreeNode poll = q.pop();
+            if (poll.left == null && poll.right == null) {
+                return depth;
+            }
+            if (poll.left != null) {
+                l.add(poll.left);
+            }
+            if (poll.right != null) {
+                l.add(poll.right);
+            }
+            if (q.isEmpty()) {
+                while (!l.isEmpty()) {
+                    q.add(l.pop());
+                }
+                depth++;
+            }
         }
-
-        if ((root.left == null) && (root.right == null)) {
-            return 1;
-        }
-
-        int min_depth = Integer.MAX_VALUE;
-        if (root.left != null) {
-            min_depth = Math.min(minDepth(root.left), min_depth);
-        }
-        if (root.right != null) {
-            min_depth = Math.min(minDepth(root.right), min_depth);
-        }
-
-        return min_depth + 1;
+        return depth;
     }
 }

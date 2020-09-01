@@ -7,7 +7,7 @@ import com.leet_code.models.TreeNode;
 
 public class LC_426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List {
     public static void main(String[] args) {
-        //             2
+//                 2
 //                / \
 //               1   4
 //                  / \

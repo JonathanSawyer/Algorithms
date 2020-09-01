@@ -23,7 +23,7 @@ public class LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree {
 //     2   4
 //    /
 //   1
-        System.out.println(lowestCommonAncestor(n5, n1, n4));
+        System.out.println(lowestCommonAncestor(n5, n1, n4).val);
     }
 
     public static TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
@@ -32,7 +32,7 @@ public class LC_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree {
                 root = root.left;
             } else if (p.val > root.val && q.val > root.val) {
                 root = root.right;
-            } else {
+            } else{
                 return root;
             }
         }
