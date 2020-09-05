@@ -18,27 +18,23 @@ public class LC_703_Kth_Largest_Element_in_a_Stream {
     }
 
     public static class KthLargest {
-        PriorityQueue<Integer> queue;
-        int _k;
+        private int K;
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
         public KthLargest(int k, int[] nums) {
-            queue = new PriorityQueue<>(Collections.reverseOrder());
-            _k = k;
-            for(int n : nums) {
-                queue.add(Integer.valueOf(n));
+            this.K = k;
+            for(int a: nums){
+                add(a);
             }
+
         }
 
         public int add(int val) {
-            queue.add(val);
-            int i = _k;
-            List<Integer> res = new ArrayList<>();
-            while(!queue.isEmpty() && i > 0) {
-                res.add(queue.peek());
-                i--;
+            pq.add(val);
+            // We will return kth largest, so removing element once size crossed K
+            if(pq.size() > this.K){
+                pq.poll();
             }
-            int j = queue.peek();
-            queue.addAll(res);
-            return j;
+            return pq.peek();
         }
     }
 }

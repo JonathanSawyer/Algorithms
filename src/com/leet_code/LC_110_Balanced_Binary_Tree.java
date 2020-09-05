@@ -30,7 +30,7 @@ public class LC_110_Balanced_Binary_Tree {
     }
 
     public static boolean isBalanced(TreeNode root) {
-
+        return dfs(root).isBalanced;
     }
 
     private static class Pair{
@@ -43,7 +43,7 @@ public class LC_110_Balanced_Binary_Tree {
         }
     }
 
-    public Pair dfs(TreeNode root) {
+    public static Pair dfs(TreeNode root) {
         if(root == null) {
             return new Pair(0, true);
         }
