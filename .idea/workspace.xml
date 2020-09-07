@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_345_Reverse_Vowels_of_a_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_716_Max_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_912_Sort_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_949_Largest_Time_for_Given_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_112_Path_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_307_Range_Sum_Query_Mutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_414_Third_Maximum_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5507.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_669_Trim_a_Binary_Search_Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_110_Balanced_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_110_Balanced_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_392_Is_Subsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_392_Is_Subsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_443_String_Compression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_443_String_Compression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_703_Kth_Largest_Element_in_a_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_703_Kth_Largest_Element_in_a_Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_852_Peak_Index_in_a_Mountain_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_852_Peak_Index_in_a_Mountain_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,15 +73,15 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.LC_912_Sort_an_Array">
+  <component name="RunManager" selected="Application.LC_5509">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_345_Reverse_Vowels_of_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_345_Reverse_Vowels_of_a_String" />
+    <configuration name="LC_112_Path_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_112_Path_Sum" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -95,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_392_Is_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_392_Is_Subsequence" />
+    <configuration name="LC_307_Range_Sum_Query_Mutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_307_Range_Sum_Query_Mutable" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -109,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_443_String_Compression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_443_String_Compression" />
+    <configuration name="LC_414_Third_Maximum_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_414_Third_Maximum_Number" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -123,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_912_Sort_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_912_Sort_an_Array" />
+    <configuration name="LC_5507" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_5507" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -137,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_949_Largest_Time_for_Given_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_949_Largest_Time_for_Given_Digits" />
+    <configuration name="LC_5509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_5509" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -153,17 +152,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC_912_Sort_an_Array" />
-        <item itemvalue="Application.LC_392_Is_Subsequence" />
-        <item itemvalue="Application.LC_443_String_Compression" />
-        <item itemvalue="Application.LC_949_Largest_Time_for_Given_Digits" />
-        <item itemvalue="Application.LC_345_Reverse_Vowels_of_a_String" />
+        <item itemvalue="Application.LC_5509" />
+        <item itemvalue="Application.LC_5507" />
+        <item itemvalue="Application.LC_307_Range_Sum_Query_Mutable" />
+        <item itemvalue="Application.LC_414_Third_Maximum_Number" />
+        <item itemvalue="Application.LC_112_Path_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +355,10 @@
       <workItem from="1599016613542" duration="1280000" />
       <workItem from="1599085892683" duration="3562000" />
       <workItem from="1599224993331" duration="1820000" />
-      <workItem from="1599258186965" duration="4096000" />
+      <workItem from="1599258186965" duration="9254000" />
+      <workItem from="1599340656849" duration="388000" />
+      <workItem from="1599355607744" duration="7860000" />
+      <workItem from="1599438568586" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -470,81 +461,81 @@
     </state>
     <state x="837" y="181" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1596620422001" />
     <state x="837" y="190" key="CommitChangelistDialog2/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599016666657" />
-    <state width="1096" height="686" key="DebuggerActiveHint" timestamp="1599279534695">
+    <state width="1096" height="686" key="DebuggerActiveHint" timestamp="1599362872530">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1096" height="645" key="DebuggerActiveHint/0.23.2560.1333@0.23.2560.1333" timestamp="1598135000165" />
     <state width="1096" height="646" key="DebuggerActiveHint/0.23.2560.1337@0.23.2560.1337" timestamp="1596942295617" />
     <state width="1096" height="645" key="DebuggerActiveHint/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598154746652" />
-    <state width="1096" height="686" key="DebuggerActiveHint/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599279534695" />
+    <state width="1096" height="686" key="DebuggerActiveHint/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599362872530" />
     <state x="100" y="123" width="2360" height="1217" key="DiffContextDialog" timestamp="1598269857959">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="100" y="123" width="2360" height="1217" key="DiffContextDialog/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598269857959" />
-    <state width="2507" height="224" key="GridCell.Tab.0.bottom" timestamp="1599280401796">
+    <state width="2507" height="224" key="GridCell.Tab.0.bottom" timestamp="1599363673158">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983144" />
     <state width="2518" height="324" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
     <state width="2518" height="210" key="GridCell.Tab.0.bottom/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863397" />
-    <state width="2507" height="224" key="GridCell.Tab.0.bottom/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280401796" />
-    <state width="2507" height="224" key="GridCell.Tab.0.center" timestamp="1599280401796">
+    <state width="2507" height="224" key="GridCell.Tab.0.bottom/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599363673158" />
+    <state width="2507" height="224" key="GridCell.Tab.0.center" timestamp="1599363673158">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983143" />
     <state width="2518" height="324" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
     <state width="2518" height="210" key="GridCell.Tab.0.center/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863397" />
-    <state width="2507" height="224" key="GridCell.Tab.0.center/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280401796" />
-    <state width="2507" height="224" key="GridCell.Tab.0.left" timestamp="1599280401795">
+    <state width="2507" height="224" key="GridCell.Tab.0.center/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599363673158" />
+    <state width="2507" height="224" key="GridCell.Tab.0.left" timestamp="1599363673157">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983143" />
     <state width="2518" height="324" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
     <state width="2518" height="210" key="GridCell.Tab.0.left/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863396" />
-    <state width="2507" height="224" key="GridCell.Tab.0.left/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280401795" />
-    <state width="2507" height="224" key="GridCell.Tab.0.right" timestamp="1599280401796">
+    <state width="2507" height="224" key="GridCell.Tab.0.left/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599363673157" />
+    <state width="2507" height="224" key="GridCell.Tab.0.right" timestamp="1599363673158">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983143" />
     <state width="2518" height="324" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
     <state width="2518" height="210" key="GridCell.Tab.0.right/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863397" />
-    <state width="2507" height="224" key="GridCell.Tab.0.right/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280401796" />
-    <state width="2507" height="356" key="GridCell.Tab.1.bottom" timestamp="1599280033200">
+    <state width="2507" height="224" key="GridCell.Tab.0.right/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599363673158" />
+    <state width="2507" height="356" key="GridCell.Tab.1.bottom" timestamp="1599362937832">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.1.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983144" />
     <state width="2518" height="324" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272952" />
     <state width="2518" height="178" key="GridCell.Tab.1.bottom/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863394" />
-    <state width="2507" height="356" key="GridCell.Tab.1.bottom/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280033200" />
-    <state width="2507" height="356" key="GridCell.Tab.1.center" timestamp="1599280033199">
+    <state width="2507" height="356" key="GridCell.Tab.1.bottom/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599362937832" />
+    <state width="2507" height="356" key="GridCell.Tab.1.center" timestamp="1599362937832">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.1.center/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983144" />
     <state width="2518" height="324" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272952" />
     <state width="2518" height="178" key="GridCell.Tab.1.center/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863394" />
-    <state width="2507" height="356" key="GridCell.Tab.1.center/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280033199" />
-    <state width="2507" height="356" key="GridCell.Tab.1.left" timestamp="1599280033199">
+    <state width="2507" height="356" key="GridCell.Tab.1.center/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599362937832" />
+    <state width="2507" height="356" key="GridCell.Tab.1.left" timestamp="1599362937831">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.1.left/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983144" />
     <state width="2518" height="324" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272952" />
     <state width="2518" height="178" key="GridCell.Tab.1.left/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863394" />
-    <state width="2507" height="356" key="GridCell.Tab.1.left/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280033199" />
-    <state width="2507" height="356" key="GridCell.Tab.1.right" timestamp="1599280033199">
+    <state width="2507" height="356" key="GridCell.Tab.1.left/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599362937831" />
+    <state width="2507" height="356" key="GridCell.Tab.1.right" timestamp="1599362937832">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="414" key="GridCell.Tab.1.right/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983144" />
     <state width="2518" height="324" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272952" />
     <state width="2518" height="178" key="GridCell.Tab.1.right/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863394" />
-    <state width="2507" height="356" key="GridCell.Tab.1.right/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599280033199" />
+    <state width="2507" height="356" key="GridCell.Tab.1.right/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599362937832" />
     <state x="781" y="348" key="SettingsEditor" timestamp="1598996796518">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -565,14 +556,14 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="613" y="380" key="extract.method.dialog/0.23.2560.1333@0.23.2560.1333" timestamp="1597399646380" />
-    <state x="982" y="455" width="637" height="555" key="find.popup" timestamp="1598996804690">
+    <state x="982" y="455" width="637" height="555" key="find.popup" timestamp="1599361081270">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="982" y="429" width="613" height="522" key="find.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597834348878" />
     <state x="982" y="430" width="596" height="522" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597223638686" />
     <state x="982" y="455" width="637" height="555" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1598751670701" />
     <state x="982" y="429" width="637" height="522" key="find.popup/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598151550405" />
-    <state x="982" y="455" width="637" height="555" key="find.popup/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598996804690" />
+    <state x="982" y="455" width="637" height="555" key="find.popup/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599361081270" />
     <state width="600" height="439" key="javadoc.popup" timestamp="1597749835587">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
@@ -582,14 +573,14 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="685" y="325" key="run.anything.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597835074029" />
-    <state x="690" y="238" width="1192" height="1289" key="search.everywhere.popup" timestamp="1599278102150">
+    <state x="690" y="238" width="1192" height="1289" key="search.everywhere.popup" timestamp="1599363245247">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="388" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1592271657627" />
     <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597887730317" />
     <state x="690" y="226" width="1192" height="1135" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597222632178" />
     <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598151057998" />
-    <state x="690" y="238" width="1192" height="1289" key="search.everywhere.popup/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599278102150" />
+    <state x="690" y="238" width="1192" height="1289" key="search.everywhere.popup/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599363245247" />
     <state x="690" y="238" width="1192" height="1289" key="search.everywhere.popup/2560.23.1920.973/0.23.2560.1417@0.23.2560.1417" timestamp="1598440577592" />
   </component>
   <component name="XDebuggerManager">

@@ -6,8 +6,14 @@ public class LC_852_Peak_Index_in_a_Mountain_Array {
     }
 
     public static int peakIndexInMountainArray(int[] A) {
-        int i = 0, j = A.length;
-//        while(i, )
-        return -1;
+        int lo = 0, hi = A.length - 1;
+        while (lo < hi) {
+            int mi = lo + hi >>> 1;
+            if (A[mi] < A[mi + 1])
+                lo = mi + 1;
+            else
+                hi = mi;
+        }
+        return lo;
     }
 }
