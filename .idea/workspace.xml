@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_168_Excel_Sheet_Column_Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_171_Excel_Sheet_Column_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1480_Running_Sum_of_1d_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_171_Excel_Sheet_Column_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_171_Excel_Sheet_Column_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,43 +69,43 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LC_168_Excel_Sheet_Column_Title">
+  <component name="RunManager" selected="Application.LC_1480_Running_Sum_of_1d_Array">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LC_11_Container_With_Most_Water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_11_Container_With_Most_Water" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_1480_Running_Sum_of_1d_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_1480_Running_Sum_of_1d_Array" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC_168_Excel_Sheet_Column_Title" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_168_Excel_Sheet_Column_Title" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leet_code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_307_Range_Sum_Query_Mutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_307_Range_Sum_Query_Mutable" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leet_code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_414_Third_Maximum_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_414_Third_Maximum_Number" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -152,13 +152,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC_1480_Running_Sum_of_1d_Array" />
+        <item itemvalue="Application.LC_11_Container_With_Most_Water" />
         <item itemvalue="Application.LC_168_Excel_Sheet_Column_Title" />
         <item itemvalue="Application.LC_5509" />
         <item itemvalue="Application.LC_5507" />
-        <item itemvalue="Application.LC_307_Range_Sum_Query_Mutable" />
-        <item itemvalue="Application.LC_414_Third_Maximum_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +369,8 @@
       <workItem from="1599355607744" duration="7860000" />
       <workItem from="1599438568586" duration="1000" />
       <workItem from="1599734255399" duration="4983000" />
+      <workItem from="1600215636124" duration="1228000" />
+      <workItem from="1602710695171" duration="656000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
@@ -480,33 +484,41 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="100" y="123" width="2360" height="1217" key="DiffContextDialog/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598269857959" />
-    <state width="2507" height="224" key="GridCell.Tab.0.bottom" timestamp="1599739449283">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1750" height="160" key="GridCell.Tab.0.bottom" timestamp="1602711032392">
+      <screen x="0" y="23" width="1792" height="1041" />
     </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1601667243150" />
+    <state width="1750" height="160" key="GridCell.Tab.0.bottom/0.23.1792.1041@0.23.1792.1041" timestamp="1602711032392" />
     <state width="2518" height="414" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983144" />
     <state width="2518" height="324" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
     <state width="2518" height="210" key="GridCell.Tab.0.bottom/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863397" />
     <state width="2507" height="224" key="GridCell.Tab.0.bottom/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599739449283" />
-    <state width="2507" height="224" key="GridCell.Tab.0.center" timestamp="1599739449282">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1750" height="160" key="GridCell.Tab.0.center" timestamp="1602711032391">
+      <screen x="0" y="23" width="1792" height="1041" />
     </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1601667243149" />
+    <state width="1750" height="160" key="GridCell.Tab.0.center/0.23.1792.1041@0.23.1792.1041" timestamp="1602711032391" />
     <state width="2518" height="414" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983143" />
     <state width="2518" height="324" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
     <state width="2518" height="210" key="GridCell.Tab.0.center/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863397" />
     <state width="2507" height="224" key="GridCell.Tab.0.center/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599739449282" />
-    <state width="2507" height="224" key="GridCell.Tab.0.left" timestamp="1599739449282">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1750" height="160" key="GridCell.Tab.0.left" timestamp="1602711032390">
+      <screen x="0" y="23" width="1792" height="1041" />
     </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1601667243149" />
+    <state width="1750" height="160" key="GridCell.Tab.0.left/0.23.1792.1041@0.23.1792.1041" timestamp="1602711032390" />
     <state width="2518" height="414" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983143" />
     <state width="2518" height="324" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
     <state width="2518" height="210" key="GridCell.Tab.0.left/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863396" />
     <state width="2507" height="224" key="GridCell.Tab.0.left/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599739449282" />
-    <state width="2507" height="224" key="GridCell.Tab.0.right" timestamp="1599739449282">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1750" height="160" key="GridCell.Tab.0.right" timestamp="1602711032391">
+      <screen x="0" y="23" width="1792" height="1041" />
     </state>
+    <state width="1750" height="159" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1601667243149" />
+    <state width="1750" height="160" key="GridCell.Tab.0.right/0.23.1792.1041@0.23.1792.1041" timestamp="1602711032391" />
     <state width="2518" height="414" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1598143983143" />
     <state width="2518" height="324" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1597275419129" />
     <state width="2518" height="331" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272951" />
@@ -544,9 +556,11 @@
     <state width="2518" height="331" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1598793272952" />
     <state width="2518" height="178" key="GridCell.Tab.1.right/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598157863394" />
     <state width="2507" height="356" key="GridCell.Tab.1.right/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599737842591" />
-    <state x="781" y="348" key="SettingsEditor" timestamp="1598996796518">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="479" y="222" key="SettingsEditor" timestamp="1600216197615">
+      <screen x="0" y="23" width="1792" height="1036" />
     </state>
+    <state x="479" y="222" key="SettingsEditor/0.23.1792.1034@0.23.1792.1034" timestamp="1600215624839" />
+    <state x="479" y="222" key="SettingsEditor/0.23.1792.1036@0.23.1792.1036" timestamp="1600216197615" />
     <state x="781" y="330" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1596581527993" />
     <state x="781" y="348" key="SettingsEditor/2560.23.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598996796518" />
     <state x="100" y="123" width="2349" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599739693786">
@@ -588,7 +602,6 @@
     <state x="690" y="238" width="1192" height="1289" key="search.everywhere.popup" timestamp="1599363245247">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="388" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1592271657627" />
     <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1597887730317" />
     <state x="690" y="226" width="1192" height="1135" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1597222632178" />
     <state x="690" y="225" width="1192" height="1212" key="search.everywhere.popup/2560.23.1920.1057/0.23.2560.1333@0.23.2560.1333" timestamp="1598151057998" />
