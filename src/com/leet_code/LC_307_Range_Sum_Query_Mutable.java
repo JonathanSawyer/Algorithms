@@ -12,32 +12,32 @@ public class LC_307_Range_Sum_Query_Mutable {
             SegTree left, right;
             int sum;
 
-            SegTree(int leftMost, int rightMost, int [] arr) {
+            SegTree(int leftMost, int rightMost, int[] arr) {
                 this.leftMost = leftMost;
                 this.rightMost = rightMost;
-                if(leftMost == rightMost) {
+                if (leftMost == rightMost) {
                     sum = arr[leftMost];
                 } else {
                     int mid = leftMost + rightMost >>> 1;
                     left = new SegTree(leftMost, mid, arr);
-                    right = new SegTree(mid+1, rightMost, arr);
+                    right = new SegTree(mid + 1, rightMost, arr);
                 }
                 recalc();
             }
 
             private void recalc() {
-                if(leftMost == rightMost) {
+                if (leftMost == rightMost) {
                     return;
                 }
                 sum = left.sum + right.sum;
             }
 
             private void update(int idx, int val) {
-                if(leftMost == rightMost) {
+                if (leftMost == rightMost) {
                     sum = val;
                 } else {
                     final int mid = leftMost + rightMost >>> 1;
-                    if(idx <= mid) {
+                    if (idx <= mid) {
                         left.update(idx, val);
                     } else {
                         right.update(idx, val);
@@ -60,8 +60,8 @@ public class LC_307_Range_Sum_Query_Mutable {
         SegTree st;
 
         public NumArray(int[] nums) {
-            if(nums.length != 0)
-                st = new SegTree(0, nums.length-1, nums);
+            if (nums.length != 0)
+                st = new SegTree(0, nums.length - 1, nums);
         }
 
         public void update(int i, int val) {
