@@ -13,7 +13,7 @@ public final class exponentiation2 {
         for (int test = 0; test < t; test++) {
             final int a = fs.nextInt();
             final int b = fs.nextInt();
-            System.out.println(pow);
+//            System.out.println(pow);
         }
     }
 

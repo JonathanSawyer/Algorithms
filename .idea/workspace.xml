@@ -2,34 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ffc1db-6fde-4a0c-bc20-eec19f41aae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/atcoder/Contest_205/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atcoder/Contest_205/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atcoder/Contest_205/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code_forces/Educational_Codeforces_Round_110/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code_forces/Educational_Codeforces_Round_110/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code_forces/_724/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code_forces/_725/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code_forces/_725/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code_forces/template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cses/mathematics/exponentiation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cses/mathematics/exponentiation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1887_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1888.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1899.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5767.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5768.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5784.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_617.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/weekly_244/LC_5776.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leet_code/weekly_244/LC_5777.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LC_5798.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atcoder/Contest_207/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atcoder/Contest_207/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atcoder/Contest_207/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1539.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1909.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_1910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/LC_5797.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leet_code/UnionFind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cses/mathematics/exponentiation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cses/mathematics/exponentiation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leet_code/LC_338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leet_code/LC_338.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,36 +94,22 @@
       <recent name="com.code_forces" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atcoder.Contest_207" />
       <recent name="com.cses.mathematics" />
       <recent name="com.atcoder.Contest_205" />
       <recent name="com.code_forces._725" />
       <recent name="com.code_forces._724" />
-      <recent name="com.code_forces.Educational_Codeforces_Round_110" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exponentiation">
+  <component name="RunManager" selected="Application.LC_287">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atcoder.Contest_205.C" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atcoder.Contest_205.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC_1013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_1013" />
+    <configuration name="LC_142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_142" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -149,8 +122,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_1015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_1015" />
+    <configuration name="LC_1539" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_1539" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_287" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_287" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_338" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leet_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet_code.LC_39" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -169,30 +184,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet_code.a" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leet_code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cses.mathematics.exponentiation" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cses.mathematics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exponentiation" />
-        <item itemvalue="Application.a" />
-        <item itemvalue="Application.LC_1015" />
-        <item itemvalue="Application.LC_1013" />
-        <item itemvalue="Application.C" />
+        <item itemvalue="Application.LC_287" />
+        <item itemvalue="Application.LC_142" />
+        <item itemvalue="Application.LC_39" />
+        <item itemvalue="Application.LC_338" />
+        <item itemvalue="Application.LC_1539" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +433,14 @@
       <workItem from="1623943832876" duration="1131000" />
       <workItem from="1624331362506" duration="574000" />
       <workItem from="1624344201949" duration="1179000" />
-      <workItem from="1624587748067" duration="1406000" />
+      <workItem from="1624587748067" duration="8113000" />
+      <workItem from="1624760452247" duration="14737000" />
+      <workItem from="1624851278239" duration="482000" />
+      <workItem from="1624889833984" duration="2300000" />
+      <workItem from="1624952101889" duration="7025000" />
+      <workItem from="1625056636850" duration="6280000" />
+      <workItem from="1625110323655" duration="1980000" />
+      <workItem from="1625243852438" duration="4624000" />
     </task>
     <task id="LOCAL-00001" summary="remove out folder">
       <created>1579735361350</created>
